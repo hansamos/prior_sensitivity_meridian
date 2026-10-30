@@ -1,0 +1,7 @@
+# Track only the public files
+*
+!.gitignore
+!README.md
+!requirements.txt
+!notebooks/
+!notebooks/*.ipynb
