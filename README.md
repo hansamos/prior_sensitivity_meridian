@@ -2,6 +2,8 @@
 
 Checking a prior usually means refitting once per alternative. Instead: **fit once, then reweight the saved MCMC draws** (Pareto-smoothed importance sampling). Pareto k̂ and the effective sample size (ESS) say when to trust the result and when to refit.
 
+Proposal to add this to Meridian: [google/meridian discussion #1968](https://github.com/google/meridian/discussions/1968).
+
 | Pareto k̂ | verdict |
 |---|---|
 | < 0.5 | use the reweighted posterior |
