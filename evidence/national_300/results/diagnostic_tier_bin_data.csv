@@ -1,0 +1,961 @@
+diagnostic,param,tier,bin,n,metric,value
+pareto_k,roi_m,very close,k̂ < 0.3,18,kl_refit_psis,0.0058908856305651
+pareto_k,roi_m,very close,k̂ < 0.3,18,w1,0.01403817918531235
+pareto_k,roi_m,very close,k̂ < 0.3,18,ks,0.0225664196251635
+pareto_k,roi_m,very close,k̂ < 0.3,18,err_mean_sd,0.028868123365924397
+pareto_k,roi_m,very close,k̂ < 0.3,18,err_med_sd,0.0272008380113467
+pareto_k,roi_m,very close,k̂ < 0.3,18,miss,0.0
+pareto_k,roi_m,very close,k̂ < 0.3,18,gap,0.029024911527726793
+pareto_k,roi_m,very close,k̂ < 0.3,18,rankdis,0.027777777777777995
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,kl_refit_psis,0.0067773418017821
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,w1,0.01838486277728
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,ks,0.02399918091319035
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,err_mean_sd,0.04352092090965411
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,err_med_sd,0.03343673484215775
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,miss,0.0
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,gap,0.045097707359771644
+pareto_k,roi_m,very close,0.3 ≤ k̂ < 0.5,2,rankdis,2.220446049250313e-16
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,roi_m,very close,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,kl_refit_psis,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,w1,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,ks,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,err_mean_sd,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,err_med_sd,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,miss,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,gap,
+pareto_k,roi_m,very close,k̂ ≥ 0.7,0,rankdis,
+pareto_k,roi_m,close,k̂ < 0.3,7,kl_refit_psis,0.0076009308789233
+pareto_k,roi_m,close,k̂ < 0.3,7,w1,0.0125999242082981
+pareto_k,roi_m,close,k̂ < 0.3,7,ks,0.0240990634357739
+pareto_k,roi_m,close,k̂ < 0.3,7,err_mean_sd,0.0335310859458139
+pareto_k,roi_m,close,k̂ < 0.3,7,err_med_sd,0.0255172952674431
+pareto_k,roi_m,close,k̂ < 0.3,7,miss,0.0
+pareto_k,roi_m,close,k̂ < 0.3,7,gap,0.03488363915579884
+pareto_k,roi_m,close,k̂ < 0.3,7,rankdis,0.014285714285714504
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,kl_refit_psis,0.0062236344120173
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,w1,0.0117216668657807
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,ks,0.0286199976271136
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,err_mean_sd,0.0348049371457008
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,err_med_sd,0.0336297329151635
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,miss,0.0
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,gap,0.04269045733967125
+pareto_k,roi_m,close,0.3 ≤ k̂ < 0.5,3,rankdis,0.03333333333333355
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,kl_refit_psis,0.0116689125886876
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,w1,0.0209671575629004
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,ks,0.0282006719414373
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,err_mean_sd,0.0492281356247694
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,err_med_sd,0.0357619341383124
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,miss,0.0
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,gap,0.05124905475673902
+pareto_k,roi_m,close,0.5 ≤ k̂ < 0.7,3,rankdis,0.03333333333333355
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,kl_refit_psis,0.0862180176925806
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,w1,0.0568286528486025
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,ks,0.0893365302945476
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,err_mean_sd,0.1108353903797413
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,err_med_sd,0.1115913634150958
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,miss,0.0
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,gap,0.11429602058087873
+pareto_k,roi_m,close,k̂ ≥ 0.7,7,rankdis,0.04285714285714307
+pareto_k,roi_m,mid,k̂ < 0.3,5,kl_refit_psis,0.0041958824781775
+pareto_k,roi_m,mid,k̂ < 0.3,5,w1,0.0072140212043483
+pareto_k,roi_m,mid,k̂ < 0.3,5,ks,0.0218511837003186
+pareto_k,roi_m,mid,k̂ < 0.3,5,err_mean_sd,0.0175656653135091
+pareto_k,roi_m,mid,k̂ < 0.3,5,err_med_sd,0.0270384130258099
+pareto_k,roi_m,mid,k̂ < 0.3,5,miss,0.0
+pareto_k,roi_m,mid,k̂ < 0.3,5,gap,0.018603977965933605
+pareto_k,roi_m,mid,k̂ < 0.3,5,rankdis,0.02000000000000022
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,kl_refit_psis,0.013477264975062301
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,w1,0.02178853277478595
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,ks,0.0262344886263292
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,err_mean_sd,0.041566823020307106
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,err_med_sd,0.0312757539755844
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,miss,0.0
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,gap,0.04689534638736209
+pareto_k,roi_m,mid,0.3 ≤ k̂ < 0.5,4,rankdis,0.05000000000000021
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,kl_refit_psis,0.0134626411756826
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,w1,0.024378978459617298
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,ks,0.06349635881863966
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,err_mean_sd,0.1012265241278955
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,err_med_sd,0.0919268223630956
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,miss,0.0
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,gap,0.06526769602100702
+pareto_k,roi_m,mid,0.5 ≤ k̂ < 0.7,2,rankdis,2.220446049250313e-16
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,kl_refit_psis,0.2730537454636022
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,w1,0.0691220805234658
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,ks,0.1993127701525145
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,err_mean_sd,0.2185744835912194
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,err_med_sd,0.3249937034182938
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,miss,0.0
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,gap,0.18884094305766763
+pareto_k,roi_m,mid,k̂ ≥ 0.7,9,rankdis,0.08888888888888909
+pareto_k,roi_m,far,k̂ < 0.3,1,kl_refit_psis,0.0043153414689721
+pareto_k,roi_m,far,k̂ < 0.3,1,w1,0.0056673308594084
+pareto_k,roi_m,far,k̂ < 0.3,1,ks,0.0296202720219069
+pareto_k,roi_m,far,k̂ < 0.3,1,err_mean_sd,0.0176890357118667
+pareto_k,roi_m,far,k̂ < 0.3,1,err_med_sd,0.0315163920072803
+pareto_k,roi_m,far,k̂ < 0.3,1,miss,0.0
+pareto_k,roi_m,far,k̂ < 0.3,1,gap,0.030374117587607552
+pareto_k,roi_m,far,k̂ < 0.3,1,rankdis,2.220446049250313e-16
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,kl_refit_psis,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,w1,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,ks,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,err_mean_sd,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,err_med_sd,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,miss,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,gap,
+pareto_k,roi_m,far,0.3 ≤ k̂ < 0.5,0,rankdis,
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,kl_refit_psis,0.0440963673141556
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,w1,0.0460767100460378
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,ks,0.0553794581360006
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,err_mean_sd,0.0725841085928983
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,err_med_sd,0.0754151282675159
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,miss,0.0
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,gap,0.07083131749323601
+pareto_k,roi_m,far,0.5 ≤ k̂ < 0.7,5,rankdis,2.220446049250313e-16
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,kl_refit_psis,0.08500339964388864
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,w1,0.08118370426805875
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,ks,0.14255411751521704
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,err_mean_sd,0.1903649962040061
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,err_med_sd,0.20968168508439455
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,miss,0.0
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,gap,0.14640266290571585
+pareto_k,roi_m,far,k̂ ≥ 0.7,14,rankdis,0.07142857142857163
+pareto_k,roi_m,very far,k̂ < 0.3,0,kl_refit_psis,
+pareto_k,roi_m,very far,k̂ < 0.3,0,w1,
+pareto_k,roi_m,very far,k̂ < 0.3,0,ks,
+pareto_k,roi_m,very far,k̂ < 0.3,0,err_mean_sd,
+pareto_k,roi_m,very far,k̂ < 0.3,0,err_med_sd,
+pareto_k,roi_m,very far,k̂ < 0.3,0,miss,
+pareto_k,roi_m,very far,k̂ < 0.3,0,gap,
+pareto_k,roi_m,very far,k̂ < 0.3,0,rankdis,
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,kl_refit_psis,0.0102121683678728
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,w1,0.0171871520092085
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,ks,0.0213212270408243
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,err_mean_sd,0.0375861109146284
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,err_med_sd,0.0280091733608585
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,miss,0.0
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,gap,0.037447931268766776
+pareto_k,roi_m,very far,0.3 ≤ k̂ < 0.5,1,rankdis,2.220446049250313e-16
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,kl_refit_psis,0.0580646336892841
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,w1,0.056227757669333
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,ks,0.0613413637509774
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,err_mean_sd,0.0920842003014123
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,err_med_sd,0.0810669612328651
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,miss,0.0
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,gap,0.09859166063685842
+pareto_k,roi_m,very far,0.5 ≤ k̂ < 0.7,3,rankdis,2.220446049250313e-16
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,kl_refit_psis,0.26301275105145844
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,w1,0.13156199134488417
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,ks,0.2652965983137451
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,err_mean_sd,0.28854542923523485
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,err_med_sd,0.35359441881205345
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,miss,0.0375
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,gap,0.17072034984713885
+pareto_k,roi_m,very far,k̂ ≥ 0.7,16,rankdis,0.0937500000000002
+pareto_k,alpha_m,very close,k̂ < 0.3,19,kl_refit_psis,0.0046821712025397
+pareto_k,alpha_m,very close,k̂ < 0.3,19,w1,0.0053731525638483
+pareto_k,alpha_m,very close,k̂ < 0.3,19,ks,0.0149953764295871
+pareto_k,alpha_m,very close,k̂ < 0.3,19,err_mean_sd,0.0139461185446381
+pareto_k,alpha_m,very close,k̂ < 0.3,19,err_med_sd,0.019712469489349
+pareto_k,alpha_m,very close,k̂ < 0.3,19,miss,0.0
+pareto_k,alpha_m,very close,k̂ < 0.3,19,gap,0.008404255475963796
+pareto_k,alpha_m,very close,k̂ < 0.3,19,rankdis,0.005263157894737063
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,kl_refit_psis,0.0057991318941553
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,w1,0.0077538197860327
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,ks,0.0189571410216999
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,err_mean_sd,0.007889252078573
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,err_med_sd,0.0284532898527351
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,miss,0.0
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,gap,0.011988025424813586
+pareto_k,alpha_m,very close,0.3 ≤ k̂ < 0.5,1,rankdis,2.220446049250313e-16
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,alpha_m,very close,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,kl_refit_psis,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,w1,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,ks,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,err_mean_sd,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,err_med_sd,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,miss,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,gap,
+pareto_k,alpha_m,very close,k̂ ≥ 0.7,0,rankdis,
+pareto_k,alpha_m,close,k̂ < 0.3,12,kl_refit_psis,0.0056427532394895
+pareto_k,alpha_m,close,k̂ < 0.3,12,w1,0.005372821963630901
+pareto_k,alpha_m,close,k̂ < 0.3,12,ks,0.01729729758673865
+pareto_k,alpha_m,close,k̂ < 0.3,12,err_mean_sd,0.012840088010048899
+pareto_k,alpha_m,close,k̂ < 0.3,12,err_med_sd,0.02113317433734175
+pareto_k,alpha_m,close,k̂ < 0.3,12,miss,0.0
+pareto_k,alpha_m,close,k̂ < 0.3,12,gap,0.011096280268984682
+pareto_k,alpha_m,close,k̂ < 0.3,12,rankdis,2.220446049250313e-16
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,kl_refit_psis,0.00738237751416075
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,w1,0.00794236923171775
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,ks,0.0225718556681936
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,err_mean_sd,0.02205283472712895
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,err_med_sd,0.034935460866837256
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,miss,0.0
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,gap,0.010149248882065365
+pareto_k,alpha_m,close,0.3 ≤ k̂ < 0.5,8,rankdis,2.220446049250313e-16
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,alpha_m,close,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,kl_refit_psis,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,w1,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,ks,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,err_mean_sd,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,err_med_sd,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,miss,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,gap,
+pareto_k,alpha_m,close,k̂ ≥ 0.7,0,rankdis,
+pareto_k,alpha_m,mid,k̂ < 0.3,7,kl_refit_psis,0.0084538461589195
+pareto_k,alpha_m,mid,k̂ < 0.3,7,w1,0.005925637033058
+pareto_k,alpha_m,mid,k̂ < 0.3,7,ks,0.0226733698939263
+pareto_k,alpha_m,mid,k̂ < 0.3,7,err_mean_sd,0.0225828565614095
+pareto_k,alpha_m,mid,k̂ < 0.3,7,err_med_sd,0.0265448039614478
+pareto_k,alpha_m,mid,k̂ < 0.3,7,miss,0.0
+pareto_k,alpha_m,mid,k̂ < 0.3,7,gap,0.017548762783132
+pareto_k,alpha_m,mid,k̂ < 0.3,7,rankdis,2.220446049250313e-16
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,kl_refit_psis,0.01043356509045705
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,w1,0.00827482692240225
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,ks,0.02758453652757705
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,err_mean_sd,0.0256200958087667
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,err_med_sd,0.040294392266379694
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,miss,0.0
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,gap,0.017493057069013163
+pareto_k,alpha_m,mid,0.3 ≤ k̂ < 0.5,6,rankdis,2.220446049250313e-16
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,kl_refit_psis,0.02149201530067585
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,w1,0.013305873824468649
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,ks,0.05248097482433505
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,err_mean_sd,0.0422346442697242
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,err_med_sd,0.0640338735195664
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,miss,0.0
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,gap,0.015280974493309674
+pareto_k,alpha_m,mid,0.5 ≤ k̂ < 0.7,6,rankdis,0.03333333333333355
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,kl_refit_psis,0.0183210790895012
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,w1,0.0186277258451535
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,ks,0.0422386226214301
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,err_mean_sd,0.0443086655845498
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,err_med_sd,0.0954490319496271
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,miss,0.0
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,gap,0.004404685072215586
+pareto_k,alpha_m,mid,k̂ ≥ 0.7,1,rankdis,0.1000000000000002
+pareto_k,alpha_m,far,k̂ < 0.3,0,kl_refit_psis,
+pareto_k,alpha_m,far,k̂ < 0.3,0,w1,
+pareto_k,alpha_m,far,k̂ < 0.3,0,ks,
+pareto_k,alpha_m,far,k̂ < 0.3,0,err_mean_sd,
+pareto_k,alpha_m,far,k̂ < 0.3,0,err_med_sd,
+pareto_k,alpha_m,far,k̂ < 0.3,0,miss,
+pareto_k,alpha_m,far,k̂ < 0.3,0,gap,
+pareto_k,alpha_m,far,k̂ < 0.3,0,rankdis,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,kl_refit_psis,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,w1,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,ks,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,err_mean_sd,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,err_med_sd,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,miss,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,gap,
+pareto_k,alpha_m,far,0.3 ≤ k̂ < 0.5,0,rankdis,
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,kl_refit_psis,0.03575823174853595
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,w1,0.02717555347833485
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,ks,0.06840562584641924
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,err_mean_sd,0.0812931501509075
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,err_med_sd,0.1259614310715838
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,miss,0.0
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,gap,0.014497448198961205
+pareto_k,alpha_m,far,0.5 ≤ k̂ < 0.7,4,rankdis,0.025000000000000216
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,kl_refit_psis,0.06678680255242085
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,w1,0.03420482751338695
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,ks,0.1090752521444937
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,err_mean_sd,0.12261740764394616
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,err_med_sd,0.18505067591181412
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,miss,0.0
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,gap,0.02127125037543054
+pareto_k,alpha_m,far,k̂ ≥ 0.7,16,rankdis,0.050000000000000204
+pareto_k,alpha_m,very far,k̂ < 0.3,0,kl_refit_psis,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,w1,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,ks,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,err_mean_sd,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,err_med_sd,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,miss,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,gap,
+pareto_k,alpha_m,very far,k̂ < 0.3,0,rankdis,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,kl_refit_psis,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,w1,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,ks,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,err_mean_sd,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,err_med_sd,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,miss,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,gap,
+pareto_k,alpha_m,very far,0.3 ≤ k̂ < 0.5,0,rankdis,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,alpha_m,very far,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,kl_refit_psis,0.2637253036395553
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,w1,0.07547731824095685
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,ks,0.327328987415875
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,err_mean_sd,0.3495473899489868
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,err_med_sd,0.3878705405001276
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,miss,0.0
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,gap,0.11030131053041337
+pareto_k,alpha_m,very far,k̂ ≥ 0.7,20,rankdis,0.11000000000000018
+pareto_k,ec_m,very close,k̂ < 0.3,14,kl_refit_psis,0.0042049743833206
+pareto_k,ec_m,very close,k̂ < 0.3,14,w1,0.01374862091929565
+pareto_k,ec_m,very close,k̂ < 0.3,14,ks,0.016603040096619448
+pareto_k,ec_m,very close,k̂ < 0.3,14,err_mean_sd,0.01489609531191435
+pareto_k,ec_m,very close,k̂ < 0.3,14,err_med_sd,0.0221459666872204
+pareto_k,ec_m,very close,k̂ < 0.3,14,miss,0.0
+pareto_k,ec_m,very close,k̂ < 0.3,14,gap,0.0172536659194924
+pareto_k,ec_m,very close,k̂ < 0.3,14,rankdis,2.220446049250313e-16
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,kl_refit_psis,0.0117001159657296
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,w1,0.0210073718503346
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,ks,0.0181231262352209
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,err_mean_sd,0.0143443314726819
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,err_med_sd,0.0176646610263251
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,miss,0.0
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,gap,0.023781482756368377
+pareto_k,ec_m,very close,0.3 ≤ k̂ < 0.5,3,rankdis,2.220446049250313e-16
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,kl_refit_psis,0.0212051096031989
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,w1,0.025423714917917
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,ks,0.0166464435056379
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,err_mean_sd,0.0188725308557612
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,err_med_sd,0.0249091467321619
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,miss,0.0
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,gap,0.01825734705767923
+pareto_k,ec_m,very close,0.5 ≤ k̂ < 0.7,3,rankdis,0.06666666666666687
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,kl_refit_psis,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,w1,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,ks,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,err_mean_sd,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,err_med_sd,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,miss,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,gap,
+pareto_k,ec_m,very close,k̂ ≥ 0.7,0,rankdis,
+pareto_k,ec_m,close,k̂ < 0.3,14,kl_refit_psis,0.00361309462361475
+pareto_k,ec_m,close,k̂ < 0.3,14,w1,0.0106867156209461
+pareto_k,ec_m,close,k̂ < 0.3,14,ks,0.018937753338220398
+pareto_k,ec_m,close,k̂ < 0.3,14,err_mean_sd,0.013950245379836902
+pareto_k,ec_m,close,k̂ < 0.3,14,err_med_sd,0.0186128911279215
+pareto_k,ec_m,close,k̂ < 0.3,14,miss,0.0
+pareto_k,ec_m,close,k̂ < 0.3,14,gap,0.017377280023536612
+pareto_k,ec_m,close,k̂ < 0.3,14,rankdis,2.220446049250313e-16
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,kl_refit_psis,0.0163458576740292
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,w1,0.0262452695878462
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,ks,0.0214232098561959
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,err_mean_sd,0.0230400254310058
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,err_med_sd,0.0295935583434463
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,miss,0.0
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,gap,0.040217897186823226
+pareto_k,ec_m,close,0.3 ≤ k̂ < 0.5,3,rankdis,2.220446049250313e-16
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,ec_m,close,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,kl_refit_psis,0.0693101908355801
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,w1,0.0670957695323575
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,ks,0.0403108502483176
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,err_mean_sd,0.0380222395384177
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,err_med_sd,0.0544457120679299
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,miss,0.0
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,gap,0.0713249340414952
+pareto_k,ec_m,close,k̂ ≥ 0.7,3,rankdis,0.03333333333333355
+pareto_k,ec_m,mid,k̂ < 0.3,8,kl_refit_psis,0.00479555687615705
+pareto_k,ec_m,mid,k̂ < 0.3,8,w1,0.0093721631642089
+pareto_k,ec_m,mid,k̂ < 0.3,8,ks,0.0246670070652961
+pareto_k,ec_m,mid,k̂ < 0.3,8,err_mean_sd,0.02051206642212865
+pareto_k,ec_m,mid,k̂ < 0.3,8,err_med_sd,0.033402175414555146
+pareto_k,ec_m,mid,k̂ < 0.3,8,miss,0.0
+pareto_k,ec_m,mid,k̂ < 0.3,8,gap,0.024698057227451775
+pareto_k,ec_m,mid,k̂ < 0.3,8,rankdis,2.220446049250313e-16
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,kl_refit_psis,0.0045784712797432
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,w1,0.0126447831115247
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,ks,0.0245467017735174
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,err_mean_sd,0.0187589726937285
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,err_med_sd,0.027490023303597
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,miss,0.0
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,gap,0.01621551112703523
+pareto_k,ec_m,mid,0.3 ≤ k̂ < 0.5,3,rankdis,2.220446049250313e-16
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,kl_refit_psis,0.00940151829536065
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,w1,0.0155954019980298
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,ks,0.0472146413585707
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,err_mean_sd,0.02628530336983785
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,err_med_sd,0.06042702557415985
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,miss,0.0
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,gap,0.02659555320392698
+pareto_k,ec_m,mid,0.5 ≤ k̂ < 0.7,6,rankdis,0.05000000000000021
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,kl_refit_psis,0.1205384625098785
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,w1,0.0884411625189864
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,ks,0.0516139149687944
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,err_mean_sd,0.058782590720449
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,err_med_sd,0.0621677109316201
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,miss,0.0
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,gap,0.08647347478745215
+pareto_k,ec_m,mid,k̂ ≥ 0.7,3,rankdis,0.1000000000000002
+pareto_k,ec_m,far,k̂ < 0.3,3,kl_refit_psis,0.0087616913031613
+pareto_k,ec_m,far,k̂ < 0.3,3,w1,0.0123626546463904
+pareto_k,ec_m,far,k̂ < 0.3,3,ks,0.046129663625527
+pareto_k,ec_m,far,k̂ < 0.3,3,err_mean_sd,0.0232811377308611
+pareto_k,ec_m,far,k̂ < 0.3,3,err_med_sd,0.0458388067176159
+pareto_k,ec_m,far,k̂ < 0.3,3,miss,0.0
+pareto_k,ec_m,far,k̂ < 0.3,3,gap,0.038541381997080015
+pareto_k,ec_m,far,k̂ < 0.3,3,rankdis,0.03333333333333355
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,kl_refit_psis,0.0089327637402989
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,w1,0.01442930565120025
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,ks,0.05092195036851845
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,err_mean_sd,0.033805937589503204
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,err_med_sd,0.07433291377649251
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,miss,0.0
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,gap,0.0370108042683398
+pareto_k,ec_m,far,0.3 ≤ k̂ < 0.5,2,rankdis,0.05000000000000021
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,kl_refit_psis,0.00845446425904035
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,w1,0.0151357964530801
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,ks,0.04821490614245745
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,err_mean_sd,0.02874138045327915
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,err_med_sd,0.0610336578875237
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,miss,0.0
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,gap,0.0283374726209355
+pareto_k,ec_m,far,0.5 ≤ k̂ < 0.7,2,rankdis,2.220446049250313e-16
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,kl_refit_psis,0.3349035832402441
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,w1,0.2032456939817594
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,ks,0.1314471703016965
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,err_mean_sd,0.1399250798161797
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,err_med_sd,0.1330294074259921
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,miss,0.0
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,gap,0.14006138720967398
+pareto_k,ec_m,far,k̂ ≥ 0.7,13,rankdis,0.18461538461538468
+pareto_k,ec_m,very far,k̂ < 0.3,0,kl_refit_psis,
+pareto_k,ec_m,very far,k̂ < 0.3,0,w1,
+pareto_k,ec_m,very far,k̂ < 0.3,0,ks,
+pareto_k,ec_m,very far,k̂ < 0.3,0,err_mean_sd,
+pareto_k,ec_m,very far,k̂ < 0.3,0,err_med_sd,
+pareto_k,ec_m,very far,k̂ < 0.3,0,miss,
+pareto_k,ec_m,very far,k̂ < 0.3,0,gap,
+pareto_k,ec_m,very far,k̂ < 0.3,0,rankdis,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,kl_refit_psis,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,w1,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,ks,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,err_mean_sd,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,err_med_sd,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,miss,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,gap,
+pareto_k,ec_m,very far,0.3 ≤ k̂ < 0.5,0,rankdis,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,kl_refit_psis,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,w1,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,ks,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,err_mean_sd,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,err_med_sd,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,miss,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,gap,
+pareto_k,ec_m,very far,0.5 ≤ k̂ < 0.7,0,rankdis,
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,kl_refit_psis,1.0891561520574324
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,w1,0.4045470796790309
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,ks,0.28255355885184175
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,err_mean_sd,0.3061830256966098
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,err_med_sd,0.2540266334152028
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,miss,0.019999999999999997
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,gap,0.3032715362294865
+pareto_k,ec_m,very far,k̂ ≥ 0.7,20,rankdis,0.38000000000000006
+ess_fraction,roi_m,very close,effective draws 70–100%,8,kl_refit_psis,0.00578668071934525
+ess_fraction,roi_m,very close,effective draws 70–100%,8,w1,0.01477705604807435
+ess_fraction,roi_m,very close,effective draws 70–100%,8,ks,0.023037976168994452
+ess_fraction,roi_m,very close,effective draws 70–100%,8,err_mean_sd,0.03001905172375335
+ess_fraction,roi_m,very close,effective draws 70–100%,8,err_med_sd,0.036517092402054
+ess_fraction,roi_m,very close,effective draws 70–100%,8,miss,0.0
+ess_fraction,roi_m,very close,effective draws 70–100%,8,gap,0.02533960726828388
+ess_fraction,roi_m,very close,effective draws 70–100%,8,rankdis,0.01250000000000022
+ess_fraction,roi_m,very close,50–70%,6,kl_refit_psis,0.0053320659574489
+ess_fraction,roi_m,very close,50–70%,6,w1,0.0105260621744942
+ess_fraction,roi_m,very close,50–70%,6,ks,0.0180153471653378
+ess_fraction,roi_m,very close,50–70%,6,err_mean_sd,0.0226527884797645
+ess_fraction,roi_m,very close,50–70%,6,err_med_sd,0.021482479310000448
+ess_fraction,roi_m,very close,50–70%,6,miss,0.0
+ess_fraction,roi_m,very close,50–70%,6,gap,0.0317808849938776
+ess_fraction,roi_m,very close,50–70%,6,rankdis,2.220446049250313e-16
+ess_fraction,roi_m,very close,30–50%,3,kl_refit_psis,0.0071082030824245
+ess_fraction,roi_m,very close,30–50%,3,w1,0.0174500950305731
+ess_fraction,roi_m,very close,30–50%,3,ks,0.0306658314007046
+ess_fraction,roi_m,very close,30–50%,3,err_mean_sd,0.042253781424483
+ess_fraction,roi_m,very close,30–50%,3,err_med_sd,0.0443475564832023
+ess_fraction,roi_m,very close,30–50%,3,miss,0.0
+ess_fraction,roi_m,very close,30–50%,3,gap,0.027543059692035965
+ess_fraction,roi_m,very close,30–50%,3,rankdis,0.03333333333333355
+ess_fraction,roi_m,very close,< 30%,3,kl_refit_psis,0.009653326771727
+ess_fraction,roi_m,very close,< 30%,3,w1,0.0171872633093281
+ess_fraction,roi_m,very close,< 30%,3,ks,0.0238395888954777
+ess_fraction,roi_m,very close,< 30%,3,err_mean_sd,0.0285058209944772
+ess_fraction,roi_m,very close,< 30%,3,err_med_sd,0.0287993835177492
+ess_fraction,roi_m,very close,< 30%,3,miss,0.0
+ess_fraction,roi_m,very close,< 30%,3,gap,0.05780055165249076
+ess_fraction,roi_m,very close,< 30%,3,rankdis,0.1000000000000002
+ess_fraction,roi_m,close,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,roi_m,close,effective draws 70–100%,0,w1,
+ess_fraction,roi_m,close,effective draws 70–100%,0,ks,
+ess_fraction,roi_m,close,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,roi_m,close,effective draws 70–100%,0,err_med_sd,
+ess_fraction,roi_m,close,effective draws 70–100%,0,miss,
+ess_fraction,roi_m,close,effective draws 70–100%,0,gap,
+ess_fraction,roi_m,close,effective draws 70–100%,0,rankdis,
+ess_fraction,roi_m,close,50–70%,0,kl_refit_psis,
+ess_fraction,roi_m,close,50–70%,0,w1,
+ess_fraction,roi_m,close,50–70%,0,ks,
+ess_fraction,roi_m,close,50–70%,0,err_mean_sd,
+ess_fraction,roi_m,close,50–70%,0,err_med_sd,
+ess_fraction,roi_m,close,50–70%,0,miss,
+ess_fraction,roi_m,close,50–70%,0,gap,
+ess_fraction,roi_m,close,50–70%,0,rankdis,
+ess_fraction,roi_m,close,30–50%,6,kl_refit_psis,0.0074991507633753
+ess_fraction,roi_m,close,30–50%,6,w1,0.0139080252624957
+ess_fraction,roi_m,close,30–50%,6,ks,0.0248945488235408
+ess_fraction,roi_m,close,30–50%,6,err_mean_sd,0.03411918633545575
+ess_fraction,roi_m,close,30–50%,6,err_med_sd,0.0322933948591551
+ess_fraction,roi_m,close,30–50%,6,miss,0.0
+ess_fraction,roi_m,close,30–50%,6,gap,0.03581130066542382
+ess_fraction,roi_m,close,30–50%,6,rankdis,0.016666666666666885
+ess_fraction,roi_m,close,< 30%,14,kl_refit_psis,0.028335823291096948
+ess_fraction,roi_m,close,< 30%,14,w1,0.031606997586777597
+ess_fraction,roi_m,close,< 30%,14,ks,0.05643909633164465
+ess_fraction,roi_m,close,< 30%,14,err_mean_sd,0.0677874895812763
+ess_fraction,roi_m,close,< 30%,14,err_med_sd,0.05487879957232045
+ess_fraction,roi_m,close,< 30%,14,miss,0.0
+ess_fraction,roi_m,close,< 30%,14,gap,0.07751161109089438
+ess_fraction,roi_m,close,< 30%,14,rankdis,0.03571428571428593
+ess_fraction,roi_m,mid,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,w1,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,ks,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,err_med_sd,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,miss,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,gap,
+ess_fraction,roi_m,mid,effective draws 70–100%,0,rankdis,
+ess_fraction,roi_m,mid,50–70%,0,kl_refit_psis,
+ess_fraction,roi_m,mid,50–70%,0,w1,
+ess_fraction,roi_m,mid,50–70%,0,ks,
+ess_fraction,roi_m,mid,50–70%,0,err_mean_sd,
+ess_fraction,roi_m,mid,50–70%,0,err_med_sd,
+ess_fraction,roi_m,mid,50–70%,0,miss,
+ess_fraction,roi_m,mid,50–70%,0,gap,
+ess_fraction,roi_m,mid,50–70%,0,rankdis,
+ess_fraction,roi_m,mid,30–50%,1,kl_refit_psis,0.0034224429832192
+ess_fraction,roi_m,mid,30–50%,1,w1,0.0066936531899145
+ess_fraction,roi_m,mid,30–50%,1,ks,0.0205019268178749
+ess_fraction,roi_m,mid,30–50%,1,err_mean_sd,0.0175656653135091
+ess_fraction,roi_m,mid,30–50%,1,err_med_sd,0.0270384130258099
+ess_fraction,roi_m,mid,30–50%,1,miss,0.0
+ess_fraction,roi_m,mid,30–50%,1,gap,0.013755129584640757
+ess_fraction,roi_m,mid,30–50%,1,rankdis,2.220446049250313e-16
+ess_fraction,roi_m,mid,< 30%,19,kl_refit_psis,0.0159494105335885
+ess_fraction,roi_m,mid,< 30%,19,w1,0.0271507974099374
+ess_fraction,roi_m,mid,< 30%,19,ks,0.0656864388233017
+ess_fraction,roi_m,mid,< 30%,19,err_mean_sd,0.0989620130875482
+ess_fraction,roi_m,mid,< 30%,19,err_med_sd,0.0993470830312499
+ess_fraction,roi_m,mid,< 30%,19,miss,0.0
+ess_fraction,roi_m,mid,< 30%,19,gap,0.06817509542245159
+ess_fraction,roi_m,mid,< 30%,19,rankdis,0.05789473684210548
+ess_fraction,roi_m,far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,roi_m,far,effective draws 70–100%,0,w1,
+ess_fraction,roi_m,far,effective draws 70–100%,0,ks,
+ess_fraction,roi_m,far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,roi_m,far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,roi_m,far,effective draws 70–100%,0,miss,
+ess_fraction,roi_m,far,effective draws 70–100%,0,gap,
+ess_fraction,roi_m,far,effective draws 70–100%,0,rankdis,
+ess_fraction,roi_m,far,50–70%,0,kl_refit_psis,
+ess_fraction,roi_m,far,50–70%,0,w1,
+ess_fraction,roi_m,far,50–70%,0,ks,
+ess_fraction,roi_m,far,50–70%,0,err_mean_sd,
+ess_fraction,roi_m,far,50–70%,0,err_med_sd,
+ess_fraction,roi_m,far,50–70%,0,miss,
+ess_fraction,roi_m,far,50–70%,0,gap,
+ess_fraction,roi_m,far,50–70%,0,rankdis,
+ess_fraction,roi_m,far,30–50%,0,kl_refit_psis,
+ess_fraction,roi_m,far,30–50%,0,w1,
+ess_fraction,roi_m,far,30–50%,0,ks,
+ess_fraction,roi_m,far,30–50%,0,err_mean_sd,
+ess_fraction,roi_m,far,30–50%,0,err_med_sd,
+ess_fraction,roi_m,far,30–50%,0,miss,
+ess_fraction,roi_m,far,30–50%,0,gap,
+ess_fraction,roi_m,far,30–50%,0,rankdis,
+ess_fraction,roi_m,far,< 30%,20,kl_refit_psis,0.07163819038384225
+ess_fraction,roi_m,far,< 30%,20,w1,0.06581829062591195
+ess_fraction,roi_m,far,< 30%,20,ks,0.12676742003078165
+ess_fraction,roi_m,far,< 30%,20,err_mean_sd,0.1371870411694236
+ess_fraction,roi_m,far,< 30%,20,err_med_sd,0.1631883329067678
+ess_fraction,roi_m,far,< 30%,20,miss,0.0
+ess_fraction,roi_m,far,< 30%,20,gap,0.13351376837437762
+ess_fraction,roi_m,far,< 30%,20,rankdis,0.05000000000000021
+ess_fraction,roi_m,very far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,w1,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,ks,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,miss,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,gap,
+ess_fraction,roi_m,very far,effective draws 70–100%,0,rankdis,
+ess_fraction,roi_m,very far,50–70%,0,kl_refit_psis,
+ess_fraction,roi_m,very far,50–70%,0,w1,
+ess_fraction,roi_m,very far,50–70%,0,ks,
+ess_fraction,roi_m,very far,50–70%,0,err_mean_sd,
+ess_fraction,roi_m,very far,50–70%,0,err_med_sd,
+ess_fraction,roi_m,very far,50–70%,0,miss,
+ess_fraction,roi_m,very far,50–70%,0,gap,
+ess_fraction,roi_m,very far,50–70%,0,rankdis,
+ess_fraction,roi_m,very far,30–50%,1,kl_refit_psis,0.0102121683678728
+ess_fraction,roi_m,very far,30–50%,1,w1,0.0171871520092085
+ess_fraction,roi_m,very far,30–50%,1,ks,0.0213212270408243
+ess_fraction,roi_m,very far,30–50%,1,err_mean_sd,0.0375861109146284
+ess_fraction,roi_m,very far,30–50%,1,err_med_sd,0.0280091733608585
+ess_fraction,roi_m,very far,30–50%,1,miss,0.0
+ess_fraction,roi_m,very far,30–50%,1,gap,0.037447931268766776
+ess_fraction,roi_m,very far,30–50%,1,rankdis,2.220446049250313e-16
+ess_fraction,roi_m,very far,< 30%,19,kl_refit_psis,0.1560485495197586
+ess_fraction,roi_m,very far,< 30%,19,w1,0.1113205829386005
+ess_fraction,roi_m,very far,< 30%,19,ks,0.2100874283018377
+ess_fraction,roi_m,very far,< 30%,19,err_mean_sd,0.2474460633979174
+ess_fraction,roi_m,very far,< 30%,19,err_med_sd,0.3191507711704459
+ess_fraction,roi_m,very far,< 30%,19,miss,0.031578947368421054
+ess_fraction,roi_m,very far,< 30%,19,gap,0.14189334375335094
+ess_fraction,roi_m,very far,< 30%,19,rankdis,0.07894736842105282
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,kl_refit_psis,0.004481871488744901
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,w1,0.00529890538650935
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,ks,0.01498407653402215
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,err_mean_sd,0.013230859322103751
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,err_med_sd,0.0204890437517345
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,miss,0.0
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,gap,0.007899038586503926
+ess_fraction,alpha_m,very close,effective draws 70–100%,12,rankdis,2.220446049250313e-16
+ess_fraction,alpha_m,very close,50–70%,7,kl_refit_psis,0.0048501172814666
+ess_fraction,alpha_m,very close,50–70%,7,w1,0.0056002418517235
+ess_fraction,alpha_m,very close,50–70%,7,ks,0.0167367271171104
+ess_fraction,alpha_m,very close,50–70%,7,err_mean_sd,0.0144477139789772
+ess_fraction,alpha_m,very close,50–70%,7,err_med_sd,0.0186305732884353
+ess_fraction,alpha_m,very close,50–70%,7,miss,0.0
+ess_fraction,alpha_m,very close,50–70%,7,gap,0.008696841374228215
+ess_fraction,alpha_m,very close,50–70%,7,rankdis,0.014285714285714504
+ess_fraction,alpha_m,very close,30–50%,1,kl_refit_psis,0.0057991318941553
+ess_fraction,alpha_m,very close,30–50%,1,w1,0.0077538197860327
+ess_fraction,alpha_m,very close,30–50%,1,ks,0.0189571410216999
+ess_fraction,alpha_m,very close,30–50%,1,err_mean_sd,0.007889252078573
+ess_fraction,alpha_m,very close,30–50%,1,err_med_sd,0.0284532898527351
+ess_fraction,alpha_m,very close,30–50%,1,miss,0.0
+ess_fraction,alpha_m,very close,30–50%,1,gap,0.011988025424813586
+ess_fraction,alpha_m,very close,30–50%,1,rankdis,2.220446049250313e-16
+ess_fraction,alpha_m,very close,< 30%,0,kl_refit_psis,
+ess_fraction,alpha_m,very close,< 30%,0,w1,
+ess_fraction,alpha_m,very close,< 30%,0,ks,
+ess_fraction,alpha_m,very close,< 30%,0,err_mean_sd,
+ess_fraction,alpha_m,very close,< 30%,0,err_med_sd,
+ess_fraction,alpha_m,very close,< 30%,0,miss,
+ess_fraction,alpha_m,very close,< 30%,0,gap,
+ess_fraction,alpha_m,very close,< 30%,0,rankdis,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,w1,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,ks,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,err_med_sd,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,miss,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,gap,
+ess_fraction,alpha_m,close,effective draws 70–100%,0,rankdis,
+ess_fraction,alpha_m,close,50–70%,2,kl_refit_psis,0.0056006965693479495
+ess_fraction,alpha_m,close,50–70%,2,w1,0.006184834256733
+ess_fraction,alpha_m,close,50–70%,2,ks,0.0192070762001711
+ess_fraction,alpha_m,close,50–70%,2,err_mean_sd,0.0147008167238545
+ess_fraction,alpha_m,close,50–70%,2,err_med_sd,0.02424340423434765
+ess_fraction,alpha_m,close,50–70%,2,miss,0.0
+ess_fraction,alpha_m,close,50–70%,2,gap,0.011778486277293387
+ess_fraction,alpha_m,close,50–70%,2,rankdis,2.220446049250313e-16
+ess_fraction,alpha_m,close,30–50%,11,kl_refit_psis,0.0056387945264153
+ess_fraction,alpha_m,close,30–50%,11,w1,0.0054383784155515
+ess_fraction,alpha_m,close,30–50%,11,ks,0.0173589219780545
+ess_fraction,alpha_m,close,30–50%,11,err_mean_sd,0.0132450217500899
+ess_fraction,alpha_m,close,30–50%,11,err_med_sd,0.0202265277348373
+ess_fraction,alpha_m,close,30–50%,11,miss,0.0
+ess_fraction,alpha_m,close,30–50%,11,gap,0.009891828219558363
+ess_fraction,alpha_m,close,30–50%,11,rankdis,2.220446049250313e-16
+ess_fraction,alpha_m,close,< 30%,7,kl_refit_psis,0.0077360541183985
+ess_fraction,alpha_m,close,< 30%,7,w1,0.0079173509914845
+ess_fraction,alpha_m,close,< 30%,7,ks,0.0228106028473107
+ess_fraction,alpha_m,close,< 30%,7,err_mean_sd,0.0228026331759236
+ess_fraction,alpha_m,close,< 30%,7,err_med_sd,0.037431339923452
+ess_fraction,alpha_m,close,< 30%,7,miss,0.0
+ess_fraction,alpha_m,close,< 30%,7,gap,0.011603248541941946
+ess_fraction,alpha_m,close,< 30%,7,rankdis,2.220446049250313e-16
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,w1,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,ks,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,err_med_sd,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,miss,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,gap,
+ess_fraction,alpha_m,mid,effective draws 70–100%,0,rankdis,
+ess_fraction,alpha_m,mid,50–70%,0,kl_refit_psis,
+ess_fraction,alpha_m,mid,50–70%,0,w1,
+ess_fraction,alpha_m,mid,50–70%,0,ks,
+ess_fraction,alpha_m,mid,50–70%,0,err_mean_sd,
+ess_fraction,alpha_m,mid,50–70%,0,err_med_sd,
+ess_fraction,alpha_m,mid,50–70%,0,miss,
+ess_fraction,alpha_m,mid,50–70%,0,gap,
+ess_fraction,alpha_m,mid,50–70%,0,rankdis,
+ess_fraction,alpha_m,mid,30–50%,0,kl_refit_psis,
+ess_fraction,alpha_m,mid,30–50%,0,w1,
+ess_fraction,alpha_m,mid,30–50%,0,ks,
+ess_fraction,alpha_m,mid,30–50%,0,err_mean_sd,
+ess_fraction,alpha_m,mid,30–50%,0,err_med_sd,
+ess_fraction,alpha_m,mid,30–50%,0,miss,
+ess_fraction,alpha_m,mid,30–50%,0,gap,
+ess_fraction,alpha_m,mid,30–50%,0,rankdis,
+ess_fraction,alpha_m,mid,< 30%,20,kl_refit_psis,0.01043356509045705
+ess_fraction,alpha_m,mid,< 30%,20,w1,0.00827482692240225
+ess_fraction,alpha_m,mid,< 30%,20,ks,0.0298473978690718
+ess_fraction,alpha_m,mid,< 30%,20,err_mean_sd,0.026230637246243298
+ess_fraction,alpha_m,mid,< 30%,20,err_med_sd,0.044398176375793
+ess_fraction,alpha_m,mid,< 30%,20,miss,0.0
+ess_fraction,alpha_m,mid,< 30%,20,gap,0.017249059638315467
+ess_fraction,alpha_m,mid,< 30%,20,rankdis,0.015000000000000218
+ess_fraction,alpha_m,far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,w1,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,ks,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,miss,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,gap,
+ess_fraction,alpha_m,far,effective draws 70–100%,0,rankdis,
+ess_fraction,alpha_m,far,50–70%,0,kl_refit_psis,
+ess_fraction,alpha_m,far,50–70%,0,w1,
+ess_fraction,alpha_m,far,50–70%,0,ks,
+ess_fraction,alpha_m,far,50–70%,0,err_mean_sd,
+ess_fraction,alpha_m,far,50–70%,0,err_med_sd,
+ess_fraction,alpha_m,far,50–70%,0,miss,
+ess_fraction,alpha_m,far,50–70%,0,gap,
+ess_fraction,alpha_m,far,50–70%,0,rankdis,
+ess_fraction,alpha_m,far,30–50%,0,kl_refit_psis,
+ess_fraction,alpha_m,far,30–50%,0,w1,
+ess_fraction,alpha_m,far,30–50%,0,ks,
+ess_fraction,alpha_m,far,30–50%,0,err_mean_sd,
+ess_fraction,alpha_m,far,30–50%,0,err_med_sd,
+ess_fraction,alpha_m,far,30–50%,0,miss,
+ess_fraction,alpha_m,far,30–50%,0,gap,
+ess_fraction,alpha_m,far,30–50%,0,rankdis,
+ess_fraction,alpha_m,far,< 30%,20,kl_refit_psis,0.060430554669710354
+ess_fraction,alpha_m,far,< 30%,20,w1,0.03340258133111135
+ess_fraction,alpha_m,far,< 30%,20,ks,0.10218470693603199
+ess_fraction,alpha_m,far,< 30%,20,err_mean_sd,0.10935700557636445
+ess_fraction,alpha_m,far,< 30%,20,err_med_sd,0.16325558932919296
+ess_fraction,alpha_m,far,< 30%,20,miss,0.0
+ess_fraction,alpha_m,far,< 30%,20,gap,0.020667852103138817
+ess_fraction,alpha_m,far,< 30%,20,rankdis,0.045000000000000207
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,w1,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,ks,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,miss,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,gap,
+ess_fraction,alpha_m,very far,effective draws 70–100%,0,rankdis,
+ess_fraction,alpha_m,very far,50–70%,0,kl_refit_psis,
+ess_fraction,alpha_m,very far,50–70%,0,w1,
+ess_fraction,alpha_m,very far,50–70%,0,ks,
+ess_fraction,alpha_m,very far,50–70%,0,err_mean_sd,
+ess_fraction,alpha_m,very far,50–70%,0,err_med_sd,
+ess_fraction,alpha_m,very far,50–70%,0,miss,
+ess_fraction,alpha_m,very far,50–70%,0,gap,
+ess_fraction,alpha_m,very far,50–70%,0,rankdis,
+ess_fraction,alpha_m,very far,30–50%,0,kl_refit_psis,
+ess_fraction,alpha_m,very far,30–50%,0,w1,
+ess_fraction,alpha_m,very far,30–50%,0,ks,
+ess_fraction,alpha_m,very far,30–50%,0,err_mean_sd,
+ess_fraction,alpha_m,very far,30–50%,0,err_med_sd,
+ess_fraction,alpha_m,very far,30–50%,0,miss,
+ess_fraction,alpha_m,very far,30–50%,0,gap,
+ess_fraction,alpha_m,very far,30–50%,0,rankdis,
+ess_fraction,alpha_m,very far,< 30%,20,kl_refit_psis,0.2637253036395553
+ess_fraction,alpha_m,very far,< 30%,20,w1,0.07547731824095685
+ess_fraction,alpha_m,very far,< 30%,20,ks,0.327328987415875
+ess_fraction,alpha_m,very far,< 30%,20,err_mean_sd,0.3495473899489868
+ess_fraction,alpha_m,very far,< 30%,20,err_med_sd,0.3878705405001276
+ess_fraction,alpha_m,very far,< 30%,20,miss,0.0
+ess_fraction,alpha_m,very far,< 30%,20,gap,0.11030131053041337
+ess_fraction,alpha_m,very far,< 30%,20,rankdis,0.11000000000000018
+ess_fraction,ec_m,very close,effective draws 70–100%,9,kl_refit_psis,0.0042089032090011
+ess_fraction,ec_m,very close,effective draws 70–100%,9,w1,0.0135386533096451
+ess_fraction,ec_m,very close,effective draws 70–100%,9,ks,0.0165986968251903
+ess_fraction,ec_m,very close,effective draws 70–100%,9,err_mean_sd,0.0140714774168157
+ess_fraction,ec_m,very close,effective draws 70–100%,9,err_med_sd,0.0224117435152669
+ess_fraction,ec_m,very close,effective draws 70–100%,9,miss,0.0
+ess_fraction,ec_m,very close,effective draws 70–100%,9,gap,0.012952354358267582
+ess_fraction,ec_m,very close,effective draws 70–100%,9,rankdis,2.220446049250313e-16
+ess_fraction,ec_m,very close,50–70%,7,kl_refit_psis,0.0048394936354847
+ess_fraction,ec_m,very close,50–70%,7,w1,0.015504115362298
+ess_fraction,ec_m,very close,50–70%,7,ks,0.0163089541512042
+ess_fraction,ec_m,very close,50–70%,7,err_mean_sd,0.0188725308557612
+ess_fraction,ec_m,very close,50–70%,7,err_med_sd,0.0212899545717591
+ess_fraction,ec_m,very close,50–70%,7,miss,0.0
+ess_fraction,ec_m,very close,50–70%,7,gap,0.017769271146705234
+ess_fraction,ec_m,very close,50–70%,7,rankdis,2.220446049250313e-16
+ess_fraction,ec_m,very close,30–50%,3,kl_refit_psis,0.0118289757923854
+ess_fraction,ec_m,very close,30–50%,3,w1,0.0238611235367827
+ess_fraction,ec_m,very close,30–50%,3,ks,0.0197283879336349
+ess_fraction,ec_m,very close,30–50%,3,err_mean_sd,0.0177949675278443
+ess_fraction,ec_m,very close,30–50%,3,err_med_sd,0.0249091467321619
+ess_fraction,ec_m,very close,30–50%,3,miss,0.0
+ess_fraction,ec_m,very close,30–50%,3,gap,0.023781482756368377
+ess_fraction,ec_m,very close,30–50%,3,rankdis,0.03333333333333355
+ess_fraction,ec_m,very close,< 30%,1,kl_refit_psis,0.0240285267965635
+ess_fraction,ec_m,very close,< 30%,1,w1,0.0269439210667494
+ess_fraction,ec_m,very close,< 30%,1,ks,0.0166464435056379
+ess_fraction,ec_m,very close,< 30%,1,err_mean_sd,0.0249255455580989
+ess_fraction,ec_m,very close,< 30%,1,err_med_sd,0.0117125323651853
+ess_fraction,ec_m,very close,< 30%,1,miss,0.0
+ess_fraction,ec_m,very close,< 30%,1,gap,0.04440341781731438
+ess_fraction,ec_m,very close,< 30%,1,rankdis,0.1000000000000002
+ess_fraction,ec_m,close,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,ec_m,close,effective draws 70–100%,0,w1,
+ess_fraction,ec_m,close,effective draws 70–100%,0,ks,
+ess_fraction,ec_m,close,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,ec_m,close,effective draws 70–100%,0,err_med_sd,
+ess_fraction,ec_m,close,effective draws 70–100%,0,miss,
+ess_fraction,ec_m,close,effective draws 70–100%,0,gap,
+ess_fraction,ec_m,close,effective draws 70–100%,0,rankdis,
+ess_fraction,ec_m,close,50–70%,0,kl_refit_psis,
+ess_fraction,ec_m,close,50–70%,0,w1,
+ess_fraction,ec_m,close,50–70%,0,ks,
+ess_fraction,ec_m,close,50–70%,0,err_mean_sd,
+ess_fraction,ec_m,close,50–70%,0,err_med_sd,
+ess_fraction,ec_m,close,50–70%,0,miss,
+ess_fraction,ec_m,close,50–70%,0,gap,
+ess_fraction,ec_m,close,50–70%,0,rankdis,
+ess_fraction,ec_m,close,30–50%,8,kl_refit_psis,0.0034598791837724
+ess_fraction,ec_m,close,30–50%,8,w1,0.009428273388077349
+ess_fraction,ec_m,close,30–50%,8,ks,0.01799933443326155
+ess_fraction,ec_m,close,30–50%,8,err_mean_sd,0.01231311276982935
+ess_fraction,ec_m,close,30–50%,8,err_med_sd,0.0186128911279215
+ess_fraction,ec_m,close,30–50%,8,miss,0.0
+ess_fraction,ec_m,close,30–50%,8,gap,0.016820725383100588
+ess_fraction,ec_m,close,30–50%,8,rankdis,2.220446049250313e-16
+ess_fraction,ec_m,close,< 30%,12,kl_refit_psis,0.00860768611574315
+ess_fraction,ec_m,close,< 30%,12,w1,0.02151580124691345
+ess_fraction,ec_m,close,< 30%,12,ks,0.0221227122927858
+ess_fraction,ec_m,close,< 30%,12,err_mean_sd,0.02137203361753865
+ess_fraction,ec_m,close,< 30%,12,err_med_sd,0.02640598641897665
+ess_fraction,ec_m,close,< 30%,12,miss,0.0
+ess_fraction,ec_m,close,< 30%,12,gap,0.02735472296767444
+ess_fraction,ec_m,close,< 30%,12,rankdis,0.008333333333333554
+ess_fraction,ec_m,mid,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,w1,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,ks,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,err_med_sd,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,miss,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,gap,
+ess_fraction,ec_m,mid,effective draws 70–100%,0,rankdis,
+ess_fraction,ec_m,mid,50–70%,0,kl_refit_psis,
+ess_fraction,ec_m,mid,50–70%,0,w1,
+ess_fraction,ec_m,mid,50–70%,0,ks,
+ess_fraction,ec_m,mid,50–70%,0,err_mean_sd,
+ess_fraction,ec_m,mid,50–70%,0,err_med_sd,
+ess_fraction,ec_m,mid,50–70%,0,miss,
+ess_fraction,ec_m,mid,50–70%,0,gap,
+ess_fraction,ec_m,mid,50–70%,0,rankdis,
+ess_fraction,ec_m,mid,30–50%,0,kl_refit_psis,
+ess_fraction,ec_m,mid,30–50%,0,w1,
+ess_fraction,ec_m,mid,30–50%,0,ks,
+ess_fraction,ec_m,mid,30–50%,0,err_mean_sd,
+ess_fraction,ec_m,mid,30–50%,0,err_med_sd,
+ess_fraction,ec_m,mid,30–50%,0,miss,
+ess_fraction,ec_m,mid,30–50%,0,gap,
+ess_fraction,ec_m,mid,30–50%,0,rankdis,
+ess_fraction,ec_m,mid,< 30%,20,kl_refit_psis,0.0072606877113663
+ess_fraction,ec_m,mid,< 30%,20,w1,0.014953289962805351
+ess_fraction,ec_m,mid,< 30%,20,ks,0.02959474430376255
+ess_fraction,ec_m,mid,< 30%,20,err_mean_sd,0.0220009531334095
+ess_fraction,ec_m,mid,< 30%,20,err_med_sd,0.038943053781192796
+ess_fraction,ec_m,mid,< 30%,20,miss,0.0
+ess_fraction,ec_m,mid,< 30%,20,gap,0.024698057227451775
+ess_fraction,ec_m,mid,< 30%,20,rankdis,0.030000000000000214
+ess_fraction,ec_m,far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,ec_m,far,effective draws 70–100%,0,w1,
+ess_fraction,ec_m,far,effective draws 70–100%,0,ks,
+ess_fraction,ec_m,far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,ec_m,far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,ec_m,far,effective draws 70–100%,0,miss,
+ess_fraction,ec_m,far,effective draws 70–100%,0,gap,
+ess_fraction,ec_m,far,effective draws 70–100%,0,rankdis,
+ess_fraction,ec_m,far,50–70%,0,kl_refit_psis,
+ess_fraction,ec_m,far,50–70%,0,w1,
+ess_fraction,ec_m,far,50–70%,0,ks,
+ess_fraction,ec_m,far,50–70%,0,err_mean_sd,
+ess_fraction,ec_m,far,50–70%,0,err_med_sd,
+ess_fraction,ec_m,far,50–70%,0,miss,
+ess_fraction,ec_m,far,50–70%,0,gap,
+ess_fraction,ec_m,far,50–70%,0,rankdis,
+ess_fraction,ec_m,far,30–50%,0,kl_refit_psis,
+ess_fraction,ec_m,far,30–50%,0,w1,
+ess_fraction,ec_m,far,30–50%,0,ks,
+ess_fraction,ec_m,far,30–50%,0,err_mean_sd,
+ess_fraction,ec_m,far,30–50%,0,err_med_sd,
+ess_fraction,ec_m,far,30–50%,0,miss,
+ess_fraction,ec_m,far,30–50%,0,gap,
+ess_fraction,ec_m,far,30–50%,0,rankdis,
+ess_fraction,ec_m,far,< 30%,20,kl_refit_psis,0.13797801818998712
+ess_fraction,ec_m,far,< 30%,20,w1,0.1227185044275786
+ess_fraction,ec_m,far,< 30%,20,ks,0.09882579915327161
+ess_fraction,ec_m,far,< 30%,20,err_mean_sd,0.1104045799357331
+ess_fraction,ec_m,far,< 30%,20,err_med_sd,0.1012267029551263
+ess_fraction,ec_m,far,< 30%,20,miss,0.0
+ess_fraction,ec_m,far,< 30%,20,gap,0.11783298233062167
+ess_fraction,ec_m,far,< 30%,20,rankdis,0.13000000000000014
+ess_fraction,ec_m,very far,effective draws 70–100%,0,kl_refit_psis,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,w1,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,ks,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,err_mean_sd,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,err_med_sd,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,miss,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,gap,
+ess_fraction,ec_m,very far,effective draws 70–100%,0,rankdis,
+ess_fraction,ec_m,very far,50–70%,0,kl_refit_psis,
+ess_fraction,ec_m,very far,50–70%,0,w1,
+ess_fraction,ec_m,very far,50–70%,0,ks,
+ess_fraction,ec_m,very far,50–70%,0,err_mean_sd,
+ess_fraction,ec_m,very far,50–70%,0,err_med_sd,
+ess_fraction,ec_m,very far,50–70%,0,miss,
+ess_fraction,ec_m,very far,50–70%,0,gap,
+ess_fraction,ec_m,very far,50–70%,0,rankdis,
+ess_fraction,ec_m,very far,30–50%,0,kl_refit_psis,
+ess_fraction,ec_m,very far,30–50%,0,w1,
+ess_fraction,ec_m,very far,30–50%,0,ks,
+ess_fraction,ec_m,very far,30–50%,0,err_mean_sd,
+ess_fraction,ec_m,very far,30–50%,0,err_med_sd,
+ess_fraction,ec_m,very far,30–50%,0,miss,
+ess_fraction,ec_m,very far,30–50%,0,gap,
+ess_fraction,ec_m,very far,30–50%,0,rankdis,
+ess_fraction,ec_m,very far,< 30%,20,kl_refit_psis,1.0891561520574324
+ess_fraction,ec_m,very far,< 30%,20,w1,0.4045470796790309
+ess_fraction,ec_m,very far,< 30%,20,ks,0.28255355885184175
+ess_fraction,ec_m,very far,< 30%,20,err_mean_sd,0.3061830256966098
+ess_fraction,ec_m,very far,< 30%,20,err_med_sd,0.2540266334152028
+ess_fraction,ec_m,very far,< 30%,20,miss,0.019999999999999997
+ess_fraction,ec_m,very far,< 30%,20,gap,0.3032715362294865
+ess_fraction,ec_m,very far,< 30%,20,rankdis,0.38000000000000006

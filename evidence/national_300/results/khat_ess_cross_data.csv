@@ -1,0 +1,513 @@
+metric,panel,k_bin,ess_bin,n,value
+kl_refit_psis,All parameters pooled,k̂ < 0.3,< 30%,34,0.0064297794096584
+kl_refit_psis,All parameters pooled,k̂ < 0.3,30–50%,26,0.0054157274947606
+kl_refit_psis,All parameters pooled,k̂ < 0.3,50–70%,19,0.0050376408759205
+kl_refit_psis,All parameters pooled,k̂ < 0.3,70–100%,29,0.0045785707724935
+kl_refit_psis,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0090346937489822
+kl_refit_psis,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0084360973453161
+kl_refit_psis,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.006464521589407
+kl_refit_psis,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+kl_refit_psis,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.024576089953199348
+kl_refit_psis,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.0212051096031989
+kl_refit_psis,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.008717580217366
+kl_refit_psis,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+kl_refit_psis,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.22772889358848442
+kl_refit_psis,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+kl_refit_psis,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+kl_refit_psis,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+kl_refit_psis,roi_m,k̂ < 0.3,< 30%,9,0.0076009308789233
+kl_refit_psis,roi_m,k̂ < 0.3,30–50%,9,0.0071082030824245
+kl_refit_psis,roi_m,k̂ < 0.3,50–70%,5,0.0055455456566497
+kl_refit_psis,roi_m,k̂ < 0.3,70–100%,8,0.00578668071934525
+kl_refit_psis,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.0127859954745708
+kl_refit_psis,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.00932413285659445
+kl_refit_psis,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0051185862582481
+kl_refit_psis,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+kl_refit_psis,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.034070609511847
+kl_refit_psis,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+kl_refit_psis,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+kl_refit_psis,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+kl_refit_psis,roi_m,k̂ ≥ 0.7,< 30%,46,0.22015146332055324
+kl_refit_psis,roi_m,k̂ ≥ 0.7,30–50%,0,
+kl_refit_psis,roi_m,k̂ ≥ 0.7,50–70%,0,
+kl_refit_psis,roi_m,k̂ ≥ 0.7,70–100%,0,
+kl_refit_psis,alpha_m,k̂ < 0.3,< 30%,8,0.00796633517637375
+kl_refit_psis,alpha_m,k̂ < 0.3,30–50%,9,0.0056387945264153
+kl_refit_psis,alpha_m,k̂ < 0.3,50–70%,9,0.0052703208445452
+kl_refit_psis,alpha_m,k̂ < 0.3,70–100%,12,0.004481871488744901
+kl_refit_psis,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.0091400536072169
+kl_refit_psis,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0057991318941553
+kl_refit_psis,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+kl_refit_psis,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+kl_refit_psis,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.028213388046621
+kl_refit_psis,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+kl_refit_psis,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+kl_refit_psis,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+kl_refit_psis,alpha_m,k̂ ≥ 0.7,< 30%,37,0.1210619459567302
+kl_refit_psis,alpha_m,k̂ ≥ 0.7,30–50%,0,
+kl_refit_psis,alpha_m,k̂ ≥ 0.7,50–70%,0,
+kl_refit_psis,alpha_m,k̂ ≥ 0.7,70–100%,0,
+kl_refit_psis,ec_m,k̂ < 0.3,< 30%,17,0.0050971071667259
+kl_refit_psis,ec_m,k̂ < 0.3,30–50%,8,0.0034598791837724
+kl_refit_psis,ec_m,k̂ < 0.3,50–70%,5,0.0042010455576401
+kl_refit_psis,ec_m,k̂ < 0.3,70–100%,9,0.0042089032090011
+kl_refit_psis,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.0089327637402989
+kl_refit_psis,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0117645458790575
+kl_refit_psis,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0078104569205659
+kl_refit_psis,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+kl_refit_psis,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.009289472420294
+kl_refit_psis,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.0212051096031989
+kl_refit_psis,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.008717580217366
+kl_refit_psis,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+kl_refit_psis,ec_m,k̂ ≥ 0.7,< 30%,39,0.5622832275045067
+kl_refit_psis,ec_m,k̂ ≥ 0.7,30–50%,0,
+kl_refit_psis,ec_m,k̂ ≥ 0.7,50–70%,0,
+kl_refit_psis,ec_m,k̂ ≥ 0.7,70–100%,0,
+w1,All parameters pooled,k̂ < 0.3,< 30%,34,0.0095583836100817
+w1,All parameters pooled,k̂ < 0.3,30–50%,26,0.00934708672676575
+w1,All parameters pooled,k̂ < 0.3,50–70%,19,0.0072963525549353
+w1,All parameters pooled,k̂ < 0.3,70–100%,29,0.010309796831619
+w1,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0103426936707204
+w1,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0171871520092085
+w1,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.01432281455366045
+w1,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+w1,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.02140304448773545
+w1,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.025423714917917
+w1,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.0177894457939032
+w1,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+w1,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.07824217831867555
+w1,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+w1,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+w1,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+w1,roi_m,k̂ < 0.3,< 30%,9,0.0109542341063351
+w1,roi_m,k̂ < 0.3,30–50%,9,0.0125999242082981
+w1,roi_m,k̂ < 0.3,50–70%,5,0.0101693723458586
+w1,roi_m,k̂ < 0.3,70–100%,8,0.01477705604807435
+w1,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.018715681037334
+w1,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.02153706278031935
+w1,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0108827520031298
+w1,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+w1,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.0394123295940376
+w1,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+w1,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+w1,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+w1,roi_m,k̂ ≥ 0.7,< 30%,46,0.07157183154169106
+w1,roi_m,k̂ ≥ 0.7,30–50%,0,
+w1,roi_m,k̂ ≥ 0.7,50–70%,0,
+w1,roi_m,k̂ ≥ 0.7,70–100%,0,
+w1,alpha_m,k̂ < 0.3,< 30%,8,0.00546964140373835
+w1,alpha_m,k̂ < 0.3,30–50%,9,0.0053072655117103
+w1,alpha_m,k̂ < 0.3,50–70%,9,0.0059298917045842
+w1,alpha_m,k̂ < 0.3,70–100%,12,0.00529890538650935
+w1,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.00806796389307665
+w1,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0077538197860327
+w1,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+w1,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+w1,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.0183689362102634
+w1,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+w1,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+w1,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+w1,alpha_m,k̂ ≥ 0.7,< 30%,37,0.0592830319269733
+w1,alpha_m,k̂ ≥ 0.7,30–50%,0,
+w1,alpha_m,k̂ ≥ 0.7,50–70%,0,
+w1,alpha_m,k̂ ≥ 0.7,70–100%,0,
+w1,ec_m,k̂ < 0.3,< 30%,17,0.0106953830523056
+w1,ec_m,k̂ < 0.3,30–50%,8,0.009428273388077349
+w1,ec_m,k̂ < 0.3,50–70%,5,0.0143281731811031
+w1,ec_m,k̂ < 0.3,70–100%,9,0.0135386533096451
+w1,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.01483776761041955
+w1,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.022434247693558652
+w1,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0177628771041911
+w1,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+w1,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.0157844437324989
+w1,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.025423714917917
+w1,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.0177894457939032
+w1,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+w1,ec_m,k̂ ≥ 0.7,< 30%,39,0.2698988756370534
+w1,ec_m,k̂ ≥ 0.7,30–50%,0,
+w1,ec_m,k̂ ≥ 0.7,50–70%,0,
+w1,ec_m,k̂ ≥ 0.7,70–100%,0,
+ks,All parameters pooled,k̂ < 0.3,< 30%,34,0.023800583619212452
+ks,All parameters pooled,k̂ < 0.3,30–50%,26,0.0184717359370872
+ks,All parameters pooled,k̂ < 0.3,50–70%,19,0.0174575169528157
+ks,All parameters pooled,k̂ < 0.3,70–100%,29,0.0159486275288067
+ks,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0257116330102779
+ks,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0189571410216999
+ks,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.01682074228844015
+ks,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+ks,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.0531603358473108
+ks,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.0197283879336349
+ks,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.0157754869107746
+ks,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+ks,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.1882227123465457
+ks,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+ks,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+ks,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+ks,roi_m,k̂ < 0.3,< 30%,9,0.0238395888954777
+ks,roi_m,k̂ < 0.3,30–50%,9,0.0240990634357739
+ks,roi_m,k̂ < 0.3,50–70%,5,0.0185290467586086
+ks,roi_m,k̂ < 0.3,70–100%,8,0.023037976168994452
+ks,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.0267573442423805
+ks,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.02599352922076445
+ks,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0173325304256761
+ks,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+ks,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.0572072694573246
+ks,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+ks,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+ks,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+ks,roi_m,k̂ ≥ 0.7,< 30%,46,0.193535084692253
+ks,roi_m,k̂ ≥ 0.7,30–50%,0,
+ks,roi_m,k̂ ≥ 0.7,50–70%,0,
+ks,roi_m,k̂ ≥ 0.7,70–100%,0,
+ks,alpha_m,k̂ < 0.3,< 30%,8,0.02262472348626675
+ks,alpha_m,k̂ < 0.3,30–50%,9,0.0172356731954228
+ks,alpha_m,k̂ < 0.3,50–70%,9,0.0167506018312302
+ks,alpha_m,k̂ < 0.3,70–100%,12,0.01498407653402215
+ks,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.0253923136586502
+ks,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0180377010515018
+ks,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+ks,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+ks,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.05710836045095815
+ks,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+ks,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+ks,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+ks,alpha_m,k̂ ≥ 0.7,< 30%,37,0.1598973501728219
+ks,alpha_m,k̂ ≥ 0.7,30–50%,0,
+ks,alpha_m,k̂ ≥ 0.7,50–70%,0,
+ks,alpha_m,k̂ ≥ 0.7,70–100%,0,
+ks,ec_m,k̂ < 0.3,< 30%,17,0.0244521722184545
+ks,ec_m,k̂ < 0.3,30–50%,8,0.01799933443326155
+ks,ec_m,k̂ < 0.3,50–70%,5,0.0166073833680486
+ks,ec_m,k̂ < 0.3,70–100%,9,0.0165986968251903
+ks,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.0243661653635894
+ks,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.01894185395598455
+ks,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0163089541512042
+ks,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+ks,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.04811201907417
+ks,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.0197283879336349
+ks,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.0157754869107746
+ks,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+ks,ec_m,k̂ ≥ 0.7,< 30%,39,0.1977398300891428
+ks,ec_m,k̂ ≥ 0.7,30–50%,0,
+ks,ec_m,k̂ ≥ 0.7,50–70%,0,
+ks,ec_m,k̂ ≥ 0.7,70–100%,0,
+err_mean_sd,All parameters pooled,k̂ < 0.3,< 30%,34,0.02049278731715315
+err_mean_sd,All parameters pooled,k̂ < 0.3,30–50%,26,0.01437835900265025
+err_mean_sd,All parameters pooled,k̂ < 0.3,50–70%,19,0.0177297344024997
+err_mean_sd,All parameters pooled,k̂ < 0.3,70–100%,29,0.015720713207013
+err_mean_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0257721471156715
+err_mean_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0195272345539713
+err_mean_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.0178623897894855
+err_mean_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_mean_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.0620489462112772
+err_mean_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.0177949675278443
+err_mean_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.0188725308557612
+err_mean_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_mean_sd,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.1945774007025285
+err_mean_sd,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+err_mean_sd,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+err_mean_sd,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+err_mean_sd,roi_m,k̂ < 0.3,< 30%,9,0.0204769538983824
+err_mean_sd,roi_m,k̂ < 0.3,30–50%,9,0.0335310859458139
+err_mean_sd,roi_m,k̂ < 0.3,50–70%,5,0.0234312016021968
+err_mean_sd,roi_m,k̂ < 0.3,70–100%,8,0.03001905172375335
+err_mean_sd,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.0390966179339543
+err_mean_sd,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0513767886883022
+err_mean_sd,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0218743753573322
+err_mean_sd,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_mean_sd,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.0760263006993108
+err_mean_sd,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+err_mean_sd,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+err_mean_sd,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_mean_sd,roi_m,k̂ ≥ 0.7,< 30%,46,0.2087417592985945
+err_mean_sd,roi_m,k̂ ≥ 0.7,30–50%,0,
+err_mean_sd,roi_m,k̂ ≥ 0.7,50–70%,0,
+err_mean_sd,roi_m,k̂ ≥ 0.7,70–100%,0,
+err_mean_sd,alpha_m,k̂ < 0.3,< 30%,8,0.01866509073150215
+err_mean_sd,alpha_m,k̂ < 0.3,30–50%,9,0.0131225803564819
+err_mean_sd,alpha_m,k̂ < 0.3,50–70%,9,0.0144477139789772
+err_mean_sd,alpha_m,k̂ < 0.3,70–100%,12,0.013230859322103751
+err_mean_sd,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.0254250876059798
+err_mean_sd,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0161643237514474
+err_mean_sd,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+err_mean_sd,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_mean_sd,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.06101381297494775
+err_mean_sd,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+err_mean_sd,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+err_mean_sd,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_mean_sd,alpha_m,k̂ ≥ 0.7,< 30%,37,0.1781622778670679
+err_mean_sd,alpha_m,k̂ ≥ 0.7,30–50%,0,
+err_mean_sd,alpha_m,k̂ ≥ 0.7,50–70%,0,
+err_mean_sd,alpha_m,k̂ ≥ 0.7,70–100%,0,
+err_mean_sd,ec_m,k̂ < 0.3,< 30%,17,0.0205086207359239
+err_mean_sd,ec_m,k̂ < 0.3,30–50%,8,0.01231311276982935
+err_mean_sd,ec_m,k̂ < 0.3,50–70%,5,0.0199148306800337
+err_mean_sd,ec_m,k̂ < 0.3,70–100%,9,0.0140714774168157
+err_mean_sd,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.02370599419280255
+err_mean_sd,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.01803472448773355
+err_mean_sd,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0138504042216388
+err_mean_sd,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_mean_sd,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.0257291552122052
+err_mean_sd,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.0177949675278443
+err_mean_sd,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.0188725308557612
+err_mean_sd,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_mean_sd,ec_m,k̂ ≥ 0.7,< 30%,39,0.2212977890552202
+err_mean_sd,ec_m,k̂ ≥ 0.7,30–50%,0,
+err_mean_sd,ec_m,k̂ ≥ 0.7,50–70%,0,
+err_mean_sd,ec_m,k̂ ≥ 0.7,70–100%,0,
+err_med_sd,All parameters pooled,k̂ < 0.3,< 30%,34,0.02791042608839395
+err_med_sd,All parameters pooled,k̂ < 0.3,30–50%,26,0.02117608891958785
+err_med_sd,All parameters pooled,k̂ < 0.3,50–70%,19,0.0212899545717591
+err_med_sd,All parameters pooled,k̂ < 0.3,70–100%,29,0.0218801898591739
+err_med_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0346241552791813
+err_med_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0261302550548251
+err_med_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.0167687455574167
+err_med_sd,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_med_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.0688372570204457
+err_med_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.0249091467321619
+err_med_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.0278518386181489
+err_med_sd,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_med_sd,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.22430689860004605
+err_med_sd,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+err_med_sd,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+err_med_sd,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+err_med_sd,roi_m,k̂ < 0.3,< 30%,9,0.0287993835177492
+err_med_sd,roi_m,k̂ < 0.3,30–50%,9,0.0270384130258099
+err_med_sd,roi_m,k̂ < 0.3,50–70%,5,0.0204390454188877
+err_med_sd,roi_m,k̂ < 0.3,70–100%,8,0.036517092402054
+err_med_sd,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.0336297329151635
+err_med_sd,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0361783649220304
+err_med_sd,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0225259132011132
+err_med_sd,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_med_sd,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.0799485952537571
+err_med_sd,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+err_med_sd,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+err_med_sd,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_med_sd,roi_m,k̂ ≥ 0.7,< 30%,46,0.27268607208887613
+err_med_sd,roi_m,k̂ ≥ 0.7,30–50%,0,
+err_med_sd,roi_m,k̂ ≥ 0.7,50–70%,0,
+err_med_sd,roi_m,k̂ ≥ 0.7,70–100%,0,
+err_med_sd,alpha_m,k̂ < 0.3,< 30%,8,0.02260608910194925
+err_med_sd,alpha_m,k̂ < 0.3,30–50%,9,0.0202265277348373
+err_med_sd,alpha_m,k̂ < 0.3,50–70%,9,0.0220398209398462
+err_med_sd,alpha_m,k̂ < 0.3,70–100%,12,0.0204890437517345
+err_med_sd,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.037766394546333903
+err_med_sd,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0206325381307649
+err_med_sd,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+err_med_sd,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_med_sd,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.0833457953794014
+err_med_sd,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+err_med_sd,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+err_med_sd,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_med_sd,alpha_m,k̂ ≥ 0.7,< 30%,37,0.3318335332924516
+err_med_sd,alpha_m,k̂ ≥ 0.7,30–50%,0,
+err_med_sd,alpha_m,k̂ ≥ 0.7,50–70%,0,
+err_med_sd,alpha_m,k̂ ≥ 0.7,70–100%,0,
+err_med_sd,ec_m,k̂ < 0.3,< 30%,17,0.0287695097256646
+err_med_sd,ec_m,k̂ < 0.3,30–50%,8,0.0186128911279215
+err_med_sd,ec_m,k̂ < 0.3,50–70%,5,0.0212899545717591
+err_med_sd,ec_m,k̂ < 0.3,70–100%,9,0.0224117435152669
+err_med_sd,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.030361373717287102
+err_med_sd,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0218974580405751
+err_med_sd,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0110115779137202
+err_med_sd,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+err_med_sd,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.0602368195189061
+err_med_sd,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.0249091467321619
+err_med_sd,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.0278518386181489
+err_med_sd,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+err_med_sd,ec_m,k̂ ≥ 0.7,< 30%,39,0.1621805522940711
+err_med_sd,ec_m,k̂ ≥ 0.7,30–50%,0,
+err_med_sd,ec_m,k̂ ≥ 0.7,50–70%,0,
+err_med_sd,ec_m,k̂ ≥ 0.7,70–100%,0,
+miss,All parameters pooled,k̂ < 0.3,< 30%,34,0.0
+miss,All parameters pooled,k̂ < 0.3,30–50%,26,0.0
+miss,All parameters pooled,k̂ < 0.3,50–70%,19,0.0
+miss,All parameters pooled,k̂ < 0.3,70–100%,29,0.0
+miss,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.0
+miss,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.0
+miss,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.0
+miss,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+miss,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.0
+miss,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.0
+miss,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.0
+miss,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+miss,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.008196721311475409
+miss,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+miss,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+miss,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+miss,roi_m,k̂ < 0.3,< 30%,9,0.0
+miss,roi_m,k̂ < 0.3,30–50%,9,0.0
+miss,roi_m,k̂ < 0.3,50–70%,5,0.0
+miss,roi_m,k̂ < 0.3,70–100%,8,0.0
+miss,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.0
+miss,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0
+miss,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0
+miss,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+miss,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.0
+miss,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+miss,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+miss,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+miss,roi_m,k̂ ≥ 0.7,< 30%,46,0.013043478260869565
+miss,roi_m,k̂ ≥ 0.7,30–50%,0,
+miss,roi_m,k̂ ≥ 0.7,50–70%,0,
+miss,roi_m,k̂ ≥ 0.7,70–100%,0,
+miss,alpha_m,k̂ < 0.3,< 30%,8,0.0
+miss,alpha_m,k̂ < 0.3,30–50%,9,0.0
+miss,alpha_m,k̂ < 0.3,50–70%,9,0.0
+miss,alpha_m,k̂ < 0.3,70–100%,12,0.0
+miss,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.0
+miss,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.0
+miss,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+miss,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+miss,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.0
+miss,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+miss,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+miss,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+miss,alpha_m,k̂ ≥ 0.7,< 30%,37,0.0
+miss,alpha_m,k̂ ≥ 0.7,30–50%,0,
+miss,alpha_m,k̂ ≥ 0.7,50–70%,0,
+miss,alpha_m,k̂ ≥ 0.7,70–100%,0,
+miss,ec_m,k̂ < 0.3,< 30%,17,0.0
+miss,ec_m,k̂ < 0.3,30–50%,8,0.0
+miss,ec_m,k̂ < 0.3,50–70%,5,0.0
+miss,ec_m,k̂ < 0.3,70–100%,9,0.0
+miss,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.0
+miss,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.0
+miss,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.0
+miss,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+miss,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.0
+miss,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.0
+miss,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.0
+miss,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+miss,ec_m,k̂ ≥ 0.7,< 30%,39,0.010256410256410255
+miss,ec_m,k̂ ≥ 0.7,30–50%,0,
+miss,ec_m,k̂ ≥ 0.7,50–70%,0,
+miss,ec_m,k̂ ≥ 0.7,70–100%,0,
+gap,All parameters pooled,k̂ < 0.3,< 30%,34,0.022594440677226102
+gap,All parameters pooled,k̂ < 0.3,30–50%,26,0.017263089885683036
+gap,All parameters pooled,k̂ < 0.3,50–70%,19,0.017354913795544435
+gap,All parameters pooled,k̂ < 0.3,70–100%,29,0.012183102289608394
+gap,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.01956203476790519
+gap,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,0.023781482756368377
+gap,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,0.026646676794765012
+gap,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+gap,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.0390163173313165
+gap,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.01825734705767923
+gap,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,0.013841235699324606
+gap,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+gap,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.1446639078550166
+gap,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+gap,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+gap,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+gap,roi_m,k̂ < 0.3,< 30%,9,0.030374117587607552
+gap,roi_m,k̂ < 0.3,30–50%,9,0.034398932193324794
+gap,roi_m,k̂ < 0.3,50–70%,5,0.03378684464188997
+gap,roi_m,k̂ < 0.3,70–100%,8,0.02533960726828388
+gap,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.04346653841128201
+gap,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.048934210321222416
+gap,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.029774925345865233
+gap,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+gap,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.07083131749323601
+gap,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+gap,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+gap,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+gap,roi_m,k̂ ≥ 0.7,< 30%,46,0.16695120415794557
+gap,roi_m,k̂ ≥ 0.7,30–50%,0,
+gap,roi_m,k̂ ≥ 0.7,50–70%,0,
+gap,roi_m,k̂ ≥ 0.7,70–100%,0,
+gap,alpha_m,k̂ < 0.3,< 30%,8,0.017399625282281173
+gap,alpha_m,k̂ < 0.3,30–50%,9,0.010330578910522359
+gap,alpha_m,k̂ < 0.3,50–70%,9,0.010830541059527965
+gap,alpha_m,k̂ < 0.3,70–100%,12,0.007899038586503926
+gap,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,0.011980291826448497
+gap,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,0.008695249222188783
+gap,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+gap,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+gap,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.015280974493309674
+gap,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+gap,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+gap,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+gap,alpha_m,k̂ ≥ 0.7,< 30%,37,0.041026862887711624
+gap,alpha_m,k̂ ≥ 0.7,30–50%,0,
+gap,alpha_m,k̂ ≥ 0.7,50–70%,0,
+gap,alpha_m,k̂ ≥ 0.7,70–100%,0,
+gap,ec_m,k̂ < 0.3,< 30%,17,0.025241345164104367
+gap,ec_m,k̂ < 0.3,30–50%,8,0.016820725383100588
+gap,ec_m,k̂ < 0.3,50–70%,5,0.017769271146705234
+gap,ec_m,k̂ < 0.3,70–100%,9,0.012952354358267582
+gap,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.029621579287313238
+gap,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,0.024395017036522804
+gap,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,0.02351842824366479
+gap,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+gap,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.031228766892750004
+gap,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.01825734705767923
+gap,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,0.013841235699324606
+gap,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+gap,ec_m,k̂ ≥ 0.7,< 30%,39,0.20078845699717818
+gap,ec_m,k̂ ≥ 0.7,30–50%,0,
+gap,ec_m,k̂ ≥ 0.7,50–70%,0,
+gap,ec_m,k̂ ≥ 0.7,70–100%,0,
+rankdis,All parameters pooled,k̂ < 0.3,< 30%,34,0.014705882352941395
+rankdis,All parameters pooled,k̂ < 0.3,30–50%,26,0.007692307692307913
+rankdis,All parameters pooled,k̂ < 0.3,50–70%,19,0.005263157894737063
+rankdis,All parameters pooled,k̂ < 0.3,70–100%,29,0.0034482758620691866
+rankdis,All parameters pooled,0.3 ≤ k̂ < 0.5,< 30%,27,0.014814814814815034
+rankdis,All parameters pooled,0.3 ≤ k̂ < 0.5,30–50%,7,2.220446049250313e-16
+rankdis,All parameters pooled,0.3 ≤ k̂ < 0.5,50–70%,2,2.220446049250313e-16
+rankdis,All parameters pooled,0.3 ≤ k̂ < 0.5,70–100%,0,
+rankdis,All parameters pooled,0.5 ≤ k̂ < 0.7,< 30%,32,0.025000000000000216
+rankdis,All parameters pooled,0.5 ≤ k̂ < 0.7,30–50%,1,0.1000000000000002
+rankdis,All parameters pooled,0.5 ≤ k̂ < 0.7,50–70%,1,2.220446049250313e-16
+rankdis,All parameters pooled,0.5 ≤ k̂ < 0.7,70–100%,0,
+rankdis,All parameters pooled,k̂ ≥ 0.7,< 30%,122,0.14016393442622965
+rankdis,All parameters pooled,k̂ ≥ 0.7,30–50%,0,
+rankdis,All parameters pooled,k̂ ≥ 0.7,50–70%,0,
+rankdis,All parameters pooled,k̂ ≥ 0.7,70–100%,0,
+rankdis,roi_m,k̂ < 0.3,< 30%,9,0.044444444444444654
+rankdis,roi_m,k̂ < 0.3,30–50%,9,0.022222222222222438
+rankdis,roi_m,k̂ < 0.3,50–70%,5,2.220446049250313e-16
+rankdis,roi_m,k̂ < 0.3,70–100%,8,0.01250000000000022
+rankdis,roi_m,0.3 ≤ k̂ < 0.5,< 30%,7,0.04285714285714307
+rankdis,roi_m,0.3 ≤ k̂ < 0.5,30–50%,2,2.220446049250313e-16
+rankdis,roi_m,0.3 ≤ k̂ < 0.5,50–70%,1,2.220446049250313e-16
+rankdis,roi_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+rankdis,roi_m,0.5 ≤ k̂ < 0.7,< 30%,13,0.007692307692307913
+rankdis,roi_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+rankdis,roi_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+rankdis,roi_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+rankdis,roi_m,k̂ ≥ 0.7,< 30%,46,0.07826086956521759
+rankdis,roi_m,k̂ ≥ 0.7,30–50%,0,
+rankdis,roi_m,k̂ ≥ 0.7,50–70%,0,
+rankdis,roi_m,k̂ ≥ 0.7,70–100%,0,
+rankdis,alpha_m,k̂ < 0.3,< 30%,8,2.220446049250313e-16
+rankdis,alpha_m,k̂ < 0.3,30–50%,9,2.220446049250313e-16
+rankdis,alpha_m,k̂ < 0.3,50–70%,9,0.01111111111111133
+rankdis,alpha_m,k̂ < 0.3,70–100%,12,2.220446049250313e-16
+rankdis,alpha_m,0.3 ≤ k̂ < 0.5,< 30%,12,2.220446049250313e-16
+rankdis,alpha_m,0.3 ≤ k̂ < 0.5,30–50%,3,2.220446049250313e-16
+rankdis,alpha_m,0.3 ≤ k̂ < 0.5,50–70%,0,
+rankdis,alpha_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+rankdis,alpha_m,0.5 ≤ k̂ < 0.7,< 30%,10,0.030000000000000214
+rankdis,alpha_m,0.5 ≤ k̂ < 0.7,30–50%,0,
+rankdis,alpha_m,0.5 ≤ k̂ < 0.7,50–70%,0,
+rankdis,alpha_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+rankdis,alpha_m,k̂ ≥ 0.7,< 30%,37,0.08378378378378397
+rankdis,alpha_m,k̂ ≥ 0.7,30–50%,0,
+rankdis,alpha_m,k̂ ≥ 0.7,50–70%,0,
+rankdis,alpha_m,k̂ ≥ 0.7,70–100%,0,
+rankdis,ec_m,k̂ < 0.3,< 30%,17,0.005882352941176692
+rankdis,ec_m,k̂ < 0.3,30–50%,8,2.220446049250313e-16
+rankdis,ec_m,k̂ < 0.3,50–70%,5,2.220446049250313e-16
+rankdis,ec_m,k̂ < 0.3,70–100%,9,2.220446049250313e-16
+rankdis,ec_m,0.3 ≤ k̂ < 0.5,< 30%,8,0.01250000000000022
+rankdis,ec_m,0.3 ≤ k̂ < 0.5,30–50%,2,2.220446049250313e-16
+rankdis,ec_m,0.3 ≤ k̂ < 0.5,50–70%,1,2.220446049250313e-16
+rankdis,ec_m,0.3 ≤ k̂ < 0.5,70–100%,0,
+rankdis,ec_m,0.5 ≤ k̂ < 0.7,< 30%,9,0.044444444444444654
+rankdis,ec_m,0.5 ≤ k̂ < 0.7,30–50%,1,0.1000000000000002
+rankdis,ec_m,0.5 ≤ k̂ < 0.7,50–70%,1,2.220446049250313e-16
+rankdis,ec_m,0.5 ≤ k̂ < 0.7,70–100%,0,
+rankdis,ec_m,k̂ ≥ 0.7,< 30%,39,0.2666666666666669
+rankdis,ec_m,k̂ ≥ 0.7,30–50%,0,
+rankdis,ec_m,k̂ ≥ 0.7,50–70%,0,
+rankdis,ec_m,k̂ ≥ 0.7,70–100%,0,

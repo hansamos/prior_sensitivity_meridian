@@ -1,0 +1,121 @@
+metric,tier,param,value
+kl_refit_psis,very close,roi_m,0.0058908856305651
+kl_refit_psis,very close,alpha_m,0.004688503585512
+kl_refit_psis,very close,ec_m,0.00473690298664785
+kl_refit_psis,close,roi_m,0.01051916097526015
+kl_refit_psis,close,alpha_m,0.00578982980604605
+kl_refit_psis,close,ec_m,0.00423559393492465
+kl_refit_psis,mid,roi_m,0.0149836579466554
+kl_refit_psis,mid,alpha_m,0.01043356509045705
+kl_refit_psis,mid,ec_m,0.0072606877113663
+kl_refit_psis,far,roi_m,0.07163819038384225
+kl_refit_psis,far,alpha_m,0.060430554669710354
+kl_refit_psis,far,ec_m,0.13797801818998712
+kl_refit_psis,very far,roi_m,0.12593037910641686
+kl_refit_psis,very far,alpha_m,0.2637253036395553
+kl_refit_psis,very far,ec_m,1.0891561520574324
+w1,very close,roi_m,0.01403817918531235
+w1,very close,alpha_m,0.0054130878221193
+w1,very close,ec_m,0.014848299521415049
+w1,close,roi_m,0.018770965672882098
+w1,close,alpha_m,0.005797043128878
+w1,close,ec_m,0.01131102067343475
+w1,mid,roi_m,0.026103523859905803
+w1,mid,alpha_m,0.00827482692240225
+w1,mid,ec_m,0.014953289962805351
+w1,far,roi_m,0.06581829062591195
+w1,far,alpha_m,0.03340258133111135
+w1,far,ec_m,0.1227185044275786
+w1,very far,roi_m,0.09305927330109015
+w1,very far,alpha_m,0.07547731824095685
+w1,very far,ec_m,0.4045470796790309
+ks,very close,roi_m,0.0225664196251635
+ks,very close,alpha_m,0.01503259221730625
+ks,very close,ec_m,0.01662691343684325
+ks,close,roi_m,0.02841033478427545
+ks,close,alpha_m,0.01832562412073165
+ks,close,ec_m,0.020587847587586153
+ks,mid,roi_m,0.06349635881863966
+ks,mid,alpha_m,0.0298473978690718
+ks,mid,ec_m,0.02959474430376255
+ks,far,roi_m,0.12676742003078165
+ks,far,alpha_m,0.10218470693603199
+ks,far,ec_m,0.09882579915327161
+ks,very far,roi_m,0.20754049162872473
+ks,very far,alpha_m,0.327328987415875
+ks,very far,ec_m,0.28255355885184175
+err_mean_sd,very close,roi_m,0.028868123365924397
+err_mean_sd,very close,alpha_m,0.013230859322103751
+err_mean_sd,very close,ec_m,0.015893868873472
+err_mean_sd,close,roi_m,0.047664079893078956
+err_mean_sd,close,alpha_m,0.0164765631881938
+err_mean_sd,close,ec_m,0.01662049746452955
+err_mean_sd,mid,roi_m,0.0945394259644537
+err_mean_sd,mid,alpha_m,0.026230637246243298
+err_mean_sd,mid,ec_m,0.0220009531334095
+err_mean_sd,far,roi_m,0.1371870411694236
+err_mean_sd,far,alpha_m,0.10935700557636445
+err_mean_sd,far,ec_m,0.1104045799357331
+err_mean_sd,very far,roi_m,0.24137759842600498
+err_mean_sd,very far,alpha_m,0.3495473899489868
+err_mean_sd,very far,ec_m,0.3061830256966098
+err_med_sd,very close,roi_m,0.0272008380113467
+err_med_sd,very close,alpha_m,0.0204890437517345
+err_med_sd,very close,ec_m,0.0221459666872204
+err_med_sd,close,roi_m,0.04015948545341165
+err_med_sd,close,alpha_m,0.02241104533591235
+err_med_sd,close,ec_m,0.0213770121234206
+err_med_sd,mid,roi_m,0.0919268223630956
+err_med_sd,mid,alpha_m,0.044398176375793
+err_med_sd,mid,ec_m,0.038943053781192796
+err_med_sd,far,roi_m,0.1631883329067678
+err_med_sd,far,alpha_m,0.16325558932919296
+err_med_sd,far,ec_m,0.1012267029551263
+err_med_sd,very far,roi_m,0.3057925824622213
+err_med_sd,very far,alpha_m,0.3878705405001276
+err_med_sd,very far,ec_m,0.2540266334152028
+miss,very close,roi_m,0.0
+miss,very close,alpha_m,0.0
+miss,very close,ec_m,0.0
+miss,close,roi_m,0.0
+miss,close,alpha_m,0.0
+miss,close,ec_m,0.0
+miss,mid,roi_m,0.0
+miss,mid,alpha_m,0.0
+miss,mid,ec_m,0.0
+miss,far,roi_m,0.0
+miss,far,alpha_m,0.0
+miss,far,ec_m,0.0
+miss,very far,roi_m,0.03
+miss,very far,alpha_m,0.0
+miss,very far,ec_m,0.019999999999999997
+gap,very close,roi_m,0.030140844354641427
+gap,very close,alpha_m,0.008550548425096005
+gap,very close,ec_m,0.017623821611603807
+gap,close,roi_m,0.04922291588937433
+gap,close,alpha_m,0.011096280268984682
+gap,close,ec_m,0.0204361890446208
+gap,mid,roi_m,0.06526769602100702
+gap,mid,alpha_m,0.017249059638315467
+gap,mid,ec_m,0.024698057227451775
+gap,far,roi_m,0.13351376837437762
+gap,far,alpha_m,0.020667852103138817
+gap,far,ec_m,0.11783298233062167
+gap,very far,roi_m,0.14031986687786446
+gap,very far,alpha_m,0.11030131053041337
+gap,very far,ec_m,0.3032715362294865
+rankdis,very close,roi_m,0.025000000000000216
+rankdis,very close,alpha_m,0.005000000000000221
+rankdis,very close,ec_m,0.01000000000000022
+rankdis,close,roi_m,0.030000000000000214
+rankdis,close,alpha_m,2.220446049250313e-16
+rankdis,close,ec_m,0.005000000000000221
+rankdis,mid,roi_m,0.0550000000000002
+rankdis,mid,alpha_m,0.015000000000000218
+rankdis,mid,ec_m,0.030000000000000214
+rankdis,far,roi_m,0.05000000000000021
+rankdis,far,alpha_m,0.045000000000000207
+rankdis,far,ec_m,0.13000000000000017
+rankdis,very far,roi_m,0.0750000000000002
+rankdis,very far,alpha_m,0.11000000000000017
+rankdis,very far,ec_m,0.38000000000000006

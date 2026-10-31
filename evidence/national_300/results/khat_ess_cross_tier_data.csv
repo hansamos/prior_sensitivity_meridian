@@ -1,0 +1,241 @@
+param,tier,k_bin,ess_bin,n,kl
+roi_m,very close,k̂ < 0.3,< 30%,3,0.009653326771727
+roi_m,very close,k̂ < 0.3,30–50%,2,0.0066279385157198
+roi_m,very close,k̂ < 0.3,50–70%,5,0.0055455456566497
+roi_m,very close,k̂ < 0.3,70–100%,8,0.00578668071934525
+roi_m,very close,0.3 ≤ k̂ < 0.5,< 30%,0,
+roi_m,very close,0.3 ≤ k̂ < 0.5,30–50%,1,0.0084360973453161
+roi_m,very close,0.3 ≤ k̂ < 0.5,50–70%,1,0.0051185862582481
+roi_m,very close,0.3 ≤ k̂ < 0.5,70–100%,0,
+roi_m,very close,0.5 ≤ k̂ < 0.7,< 30%,0,
+roi_m,very close,0.5 ≤ k̂ < 0.7,30–50%,0,
+roi_m,very close,0.5 ≤ k̂ < 0.7,50–70%,0,
+roi_m,very close,0.5 ≤ k̂ < 0.7,70–100%,0,
+roi_m,very close,k̂ ≥ 0.7,< 30%,0,
+roi_m,very close,k̂ ≥ 0.7,30–50%,0,
+roi_m,very close,k̂ ≥ 0.7,50–70%,0,
+roi_m,very close,k̂ ≥ 0.7,70–100%,0,
+roi_m,close,k̂ < 0.3,< 30%,1,0.0076009308789233
+roi_m,close,k̂ < 0.3,30–50%,6,0.0074991507633753
+roi_m,close,k̂ < 0.3,50–70%,0,
+roi_m,close,k̂ < 0.3,70–100%,0,
+roi_m,close,0.3 ≤ k̂ < 0.5,< 30%,3,0.0062236344120173
+roi_m,close,0.3 ≤ k̂ < 0.5,30–50%,0,
+roi_m,close,0.3 ≤ k̂ < 0.5,50–70%,0,
+roi_m,close,0.3 ≤ k̂ < 0.5,70–100%,0,
+roi_m,close,0.5 ≤ k̂ < 0.7,< 30%,3,0.0116689125886876
+roi_m,close,0.5 ≤ k̂ < 0.7,30–50%,0,
+roi_m,close,0.5 ≤ k̂ < 0.7,50–70%,0,
+roi_m,close,0.5 ≤ k̂ < 0.7,70–100%,0,
+roi_m,close,k̂ ≥ 0.7,< 30%,7,0.0862180176925806
+roi_m,close,k̂ ≥ 0.7,30–50%,0,
+roi_m,close,k̂ ≥ 0.7,50–70%,0,
+roi_m,close,k̂ ≥ 0.7,70–100%,0,
+roi_m,mid,k̂ < 0.3,< 30%,4,0.00470052032730235
+roi_m,mid,k̂ < 0.3,30–50%,1,0.0034224429832192
+roi_m,mid,k̂ < 0.3,50–70%,0,
+roi_m,mid,k̂ < 0.3,70–100%,0,
+roi_m,mid,0.3 ≤ k̂ < 0.5,< 30%,4,0.013477264975062301
+roi_m,mid,0.3 ≤ k̂ < 0.5,30–50%,0,
+roi_m,mid,0.3 ≤ k̂ < 0.5,50–70%,0,
+roi_m,mid,0.3 ≤ k̂ < 0.5,70–100%,0,
+roi_m,mid,0.5 ≤ k̂ < 0.7,< 30%,2,0.0134626411756826
+roi_m,mid,0.5 ≤ k̂ < 0.7,30–50%,0,
+roi_m,mid,0.5 ≤ k̂ < 0.7,50–70%,0,
+roi_m,mid,0.5 ≤ k̂ < 0.7,70–100%,0,
+roi_m,mid,k̂ ≥ 0.7,< 30%,9,0.2730537454636022
+roi_m,mid,k̂ ≥ 0.7,30–50%,0,
+roi_m,mid,k̂ ≥ 0.7,50–70%,0,
+roi_m,mid,k̂ ≥ 0.7,70–100%,0,
+roi_m,far,k̂ < 0.3,< 30%,1,0.0043153414689721
+roi_m,far,k̂ < 0.3,30–50%,0,
+roi_m,far,k̂ < 0.3,50–70%,0,
+roi_m,far,k̂ < 0.3,70–100%,0,
+roi_m,far,0.3 ≤ k̂ < 0.5,< 30%,0,
+roi_m,far,0.3 ≤ k̂ < 0.5,30–50%,0,
+roi_m,far,0.3 ≤ k̂ < 0.5,50–70%,0,
+roi_m,far,0.3 ≤ k̂ < 0.5,70–100%,0,
+roi_m,far,0.5 ≤ k̂ < 0.7,< 30%,5,0.0440963673141556
+roi_m,far,0.5 ≤ k̂ < 0.7,30–50%,0,
+roi_m,far,0.5 ≤ k̂ < 0.7,50–70%,0,
+roi_m,far,0.5 ≤ k̂ < 0.7,70–100%,0,
+roi_m,far,k̂ ≥ 0.7,< 30%,14,0.08500339964388864
+roi_m,far,k̂ ≥ 0.7,30–50%,0,
+roi_m,far,k̂ ≥ 0.7,50–70%,0,
+roi_m,far,k̂ ≥ 0.7,70–100%,0,
+roi_m,very far,k̂ < 0.3,< 30%,0,
+roi_m,very far,k̂ < 0.3,30–50%,0,
+roi_m,very far,k̂ < 0.3,50–70%,0,
+roi_m,very far,k̂ < 0.3,70–100%,0,
+roi_m,very far,0.3 ≤ k̂ < 0.5,< 30%,0,
+roi_m,very far,0.3 ≤ k̂ < 0.5,30–50%,1,0.0102121683678728
+roi_m,very far,0.3 ≤ k̂ < 0.5,50–70%,0,
+roi_m,very far,0.3 ≤ k̂ < 0.5,70–100%,0,
+roi_m,very far,0.5 ≤ k̂ < 0.7,< 30%,3,0.0580646336892841
+roi_m,very far,0.5 ≤ k̂ < 0.7,30–50%,0,
+roi_m,very far,0.5 ≤ k̂ < 0.7,50–70%,0,
+roi_m,very far,0.5 ≤ k̂ < 0.7,70–100%,0,
+roi_m,very far,k̂ ≥ 0.7,< 30%,16,0.26301275105145844
+roi_m,very far,k̂ ≥ 0.7,30–50%,0,
+roi_m,very far,k̂ ≥ 0.7,50–70%,0,
+roi_m,very far,k̂ ≥ 0.7,70–100%,0,
+alpha_m,very close,k̂ < 0.3,< 30%,0,
+alpha_m,very close,k̂ < 0.3,30–50%,0,
+alpha_m,very close,k̂ < 0.3,50–70%,7,0.0048501172814666
+alpha_m,very close,k̂ < 0.3,70–100%,12,0.004481871488744901
+alpha_m,very close,0.3 ≤ k̂ < 0.5,< 30%,0,
+alpha_m,very close,0.3 ≤ k̂ < 0.5,30–50%,1,0.0057991318941553
+alpha_m,very close,0.3 ≤ k̂ < 0.5,50–70%,0,
+alpha_m,very close,0.3 ≤ k̂ < 0.5,70–100%,0,
+alpha_m,very close,0.5 ≤ k̂ < 0.7,< 30%,0,
+alpha_m,very close,0.5 ≤ k̂ < 0.7,30–50%,0,
+alpha_m,very close,0.5 ≤ k̂ < 0.7,50–70%,0,
+alpha_m,very close,0.5 ≤ k̂ < 0.7,70–100%,0,
+alpha_m,very close,k̂ ≥ 0.7,< 30%,0,
+alpha_m,very close,k̂ ≥ 0.7,30–50%,0,
+alpha_m,very close,k̂ ≥ 0.7,50–70%,0,
+alpha_m,very close,k̂ ≥ 0.7,70–100%,0,
+alpha_m,close,k̂ < 0.3,< 30%,1,0.0064258000638691
+alpha_m,close,k̂ < 0.3,30–50%,9,0.0056387945264153
+alpha_m,close,k̂ < 0.3,50–70%,2,0.0056006965693479495
+alpha_m,close,k̂ < 0.3,70–100%,0,
+alpha_m,close,0.3 ≤ k̂ < 0.5,< 30%,6,0.00776873399102365
+alpha_m,close,0.3 ≤ k̂ < 0.5,30–50%,2,0.00570927995272585
+alpha_m,close,0.3 ≤ k̂ < 0.5,50–70%,0,
+alpha_m,close,0.3 ≤ k̂ < 0.5,70–100%,0,
+alpha_m,close,0.5 ≤ k̂ < 0.7,< 30%,0,
+alpha_m,close,0.5 ≤ k̂ < 0.7,30–50%,0,
+alpha_m,close,0.5 ≤ k̂ < 0.7,50–70%,0,
+alpha_m,close,0.5 ≤ k̂ < 0.7,70–100%,0,
+alpha_m,close,k̂ ≥ 0.7,< 30%,0,
+alpha_m,close,k̂ ≥ 0.7,30–50%,0,
+alpha_m,close,k̂ ≥ 0.7,50–70%,0,
+alpha_m,close,k̂ ≥ 0.7,70–100%,0,
+alpha_m,mid,k̂ < 0.3,< 30%,7,0.0084538461589195
+alpha_m,mid,k̂ < 0.3,30–50%,0,
+alpha_m,mid,k̂ < 0.3,50–70%,0,
+alpha_m,mid,k̂ < 0.3,70–100%,0,
+alpha_m,mid,0.3 ≤ k̂ < 0.5,< 30%,6,0.01043356509045705
+alpha_m,mid,0.3 ≤ k̂ < 0.5,30–50%,0,
+alpha_m,mid,0.3 ≤ k̂ < 0.5,50–70%,0,
+alpha_m,mid,0.3 ≤ k̂ < 0.5,70–100%,0,
+alpha_m,mid,0.5 ≤ k̂ < 0.7,< 30%,6,0.02149201530067585
+alpha_m,mid,0.5 ≤ k̂ < 0.7,30–50%,0,
+alpha_m,mid,0.5 ≤ k̂ < 0.7,50–70%,0,
+alpha_m,mid,0.5 ≤ k̂ < 0.7,70–100%,0,
+alpha_m,mid,k̂ ≥ 0.7,< 30%,1,0.0183210790895012
+alpha_m,mid,k̂ ≥ 0.7,30–50%,0,
+alpha_m,mid,k̂ ≥ 0.7,50–70%,0,
+alpha_m,mid,k̂ ≥ 0.7,70–100%,0,
+alpha_m,far,k̂ < 0.3,< 30%,0,
+alpha_m,far,k̂ < 0.3,30–50%,0,
+alpha_m,far,k̂ < 0.3,50–70%,0,
+alpha_m,far,k̂ < 0.3,70–100%,0,
+alpha_m,far,0.3 ≤ k̂ < 0.5,< 30%,0,
+alpha_m,far,0.3 ≤ k̂ < 0.5,30–50%,0,
+alpha_m,far,0.3 ≤ k̂ < 0.5,50–70%,0,
+alpha_m,far,0.3 ≤ k̂ < 0.5,70–100%,0,
+alpha_m,far,0.5 ≤ k̂ < 0.7,< 30%,4,0.03575823174853595
+alpha_m,far,0.5 ≤ k̂ < 0.7,30–50%,0,
+alpha_m,far,0.5 ≤ k̂ < 0.7,50–70%,0,
+alpha_m,far,0.5 ≤ k̂ < 0.7,70–100%,0,
+alpha_m,far,k̂ ≥ 0.7,< 30%,16,0.06678680255242085
+alpha_m,far,k̂ ≥ 0.7,30–50%,0,
+alpha_m,far,k̂ ≥ 0.7,50–70%,0,
+alpha_m,far,k̂ ≥ 0.7,70–100%,0,
+alpha_m,very far,k̂ < 0.3,< 30%,0,
+alpha_m,very far,k̂ < 0.3,30–50%,0,
+alpha_m,very far,k̂ < 0.3,50–70%,0,
+alpha_m,very far,k̂ < 0.3,70–100%,0,
+alpha_m,very far,0.3 ≤ k̂ < 0.5,< 30%,0,
+alpha_m,very far,0.3 ≤ k̂ < 0.5,30–50%,0,
+alpha_m,very far,0.3 ≤ k̂ < 0.5,50–70%,0,
+alpha_m,very far,0.3 ≤ k̂ < 0.5,70–100%,0,
+alpha_m,very far,0.5 ≤ k̂ < 0.7,< 30%,0,
+alpha_m,very far,0.5 ≤ k̂ < 0.7,30–50%,0,
+alpha_m,very far,0.5 ≤ k̂ < 0.7,50–70%,0,
+alpha_m,very far,0.5 ≤ k̂ < 0.7,70–100%,0,
+alpha_m,very far,k̂ ≥ 0.7,< 30%,20,0.2637253036395553
+alpha_m,very far,k̂ ≥ 0.7,30–50%,0,
+alpha_m,very far,k̂ ≥ 0.7,50–70%,0,
+alpha_m,very far,k̂ ≥ 0.7,70–100%,0,
+ec_m,very close,k̂ < 0.3,< 30%,0,
+ec_m,very close,k̂ < 0.3,30–50%,0,
+ec_m,very close,k̂ < 0.3,50–70%,5,0.0042010455576401
+ec_m,very close,k̂ < 0.3,70–100%,9,0.0042089032090011
+ec_m,very close,0.3 ≤ k̂ < 0.5,< 30%,0,
+ec_m,very close,0.3 ≤ k̂ < 0.5,30–50%,2,0.0117645458790575
+ec_m,very close,0.3 ≤ k̂ < 0.5,50–70%,1,0.0078104569205659
+ec_m,very close,0.3 ≤ k̂ < 0.5,70–100%,0,
+ec_m,very close,0.5 ≤ k̂ < 0.7,< 30%,1,0.0240285267965635
+ec_m,very close,0.5 ≤ k̂ < 0.7,30–50%,1,0.0212051096031989
+ec_m,very close,0.5 ≤ k̂ < 0.7,50–70%,1,0.008717580217366
+ec_m,very close,0.5 ≤ k̂ < 0.7,70–100%,0,
+ec_m,very close,k̂ ≥ 0.7,< 30%,0,
+ec_m,very close,k̂ ≥ 0.7,30–50%,0,
+ec_m,very close,k̂ ≥ 0.7,50–70%,0,
+ec_m,very close,k̂ ≥ 0.7,70–100%,0,
+ec_m,close,k̂ < 0.3,< 30%,6,0.0041443505605863
+ec_m,close,k̂ < 0.3,30–50%,8,0.0034598791837724
+ec_m,close,k̂ < 0.3,50–70%,0,
+ec_m,close,k̂ < 0.3,70–100%,0,
+ec_m,close,0.3 ≤ k̂ < 0.5,< 30%,3,0.0163458576740292
+ec_m,close,0.3 ≤ k̂ < 0.5,30–50%,0,
+ec_m,close,0.3 ≤ k̂ < 0.5,50–70%,0,
+ec_m,close,0.3 ≤ k̂ < 0.5,70–100%,0,
+ec_m,close,0.5 ≤ k̂ < 0.7,< 30%,0,
+ec_m,close,0.5 ≤ k̂ < 0.7,30–50%,0,
+ec_m,close,0.5 ≤ k̂ < 0.7,50–70%,0,
+ec_m,close,0.5 ≤ k̂ < 0.7,70–100%,0,
+ec_m,close,k̂ ≥ 0.7,< 30%,3,0.0693101908355801
+ec_m,close,k̂ ≥ 0.7,30–50%,0,
+ec_m,close,k̂ ≥ 0.7,50–70%,0,
+ec_m,close,k̂ ≥ 0.7,70–100%,0,
+ec_m,mid,k̂ < 0.3,< 30%,8,0.00479555687615705
+ec_m,mid,k̂ < 0.3,30–50%,0,
+ec_m,mid,k̂ < 0.3,50–70%,0,
+ec_m,mid,k̂ < 0.3,70–100%,0,
+ec_m,mid,0.3 ≤ k̂ < 0.5,< 30%,3,0.0045784712797432
+ec_m,mid,0.3 ≤ k̂ < 0.5,30–50%,0,
+ec_m,mid,0.3 ≤ k̂ < 0.5,50–70%,0,
+ec_m,mid,0.3 ≤ k̂ < 0.5,70–100%,0,
+ec_m,mid,0.5 ≤ k̂ < 0.7,< 30%,6,0.00940151829536065
+ec_m,mid,0.5 ≤ k̂ < 0.7,30–50%,0,
+ec_m,mid,0.5 ≤ k̂ < 0.7,50–70%,0,
+ec_m,mid,0.5 ≤ k̂ < 0.7,70–100%,0,
+ec_m,mid,k̂ ≥ 0.7,< 30%,3,0.1205384625098785
+ec_m,mid,k̂ ≥ 0.7,30–50%,0,
+ec_m,mid,k̂ ≥ 0.7,50–70%,0,
+ec_m,mid,k̂ ≥ 0.7,70–100%,0,
+ec_m,far,k̂ < 0.3,< 30%,3,0.0087616913031613
+ec_m,far,k̂ < 0.3,30–50%,0,
+ec_m,far,k̂ < 0.3,50–70%,0,
+ec_m,far,k̂ < 0.3,70–100%,0,
+ec_m,far,0.3 ≤ k̂ < 0.5,< 30%,2,0.0089327637402989
+ec_m,far,0.3 ≤ k̂ < 0.5,30–50%,0,
+ec_m,far,0.3 ≤ k̂ < 0.5,50–70%,0,
+ec_m,far,0.3 ≤ k̂ < 0.5,70–100%,0,
+ec_m,far,0.5 ≤ k̂ < 0.7,< 30%,2,0.00845446425904035
+ec_m,far,0.5 ≤ k̂ < 0.7,30–50%,0,
+ec_m,far,0.5 ≤ k̂ < 0.7,50–70%,0,
+ec_m,far,0.5 ≤ k̂ < 0.7,70–100%,0,
+ec_m,far,k̂ ≥ 0.7,< 30%,13,0.3349035832402441
+ec_m,far,k̂ ≥ 0.7,30–50%,0,
+ec_m,far,k̂ ≥ 0.7,50–70%,0,
+ec_m,far,k̂ ≥ 0.7,70–100%,0,
+ec_m,very far,k̂ < 0.3,< 30%,0,
+ec_m,very far,k̂ < 0.3,30–50%,0,
+ec_m,very far,k̂ < 0.3,50–70%,0,
+ec_m,very far,k̂ < 0.3,70–100%,0,
+ec_m,very far,0.3 ≤ k̂ < 0.5,< 30%,0,
+ec_m,very far,0.3 ≤ k̂ < 0.5,30–50%,0,
+ec_m,very far,0.3 ≤ k̂ < 0.5,50–70%,0,
+ec_m,very far,0.3 ≤ k̂ < 0.5,70–100%,0,
+ec_m,very far,0.5 ≤ k̂ < 0.7,< 30%,0,
+ec_m,very far,0.5 ≤ k̂ < 0.7,30–50%,0,
+ec_m,very far,0.5 ≤ k̂ < 0.7,50–70%,0,
+ec_m,very far,0.5 ≤ k̂ < 0.7,70–100%,0,
+ec_m,very far,k̂ ≥ 0.7,< 30%,20,1.0891561520574324
+ec_m,very far,k̂ ≥ 0.7,30–50%,0,
+ec_m,very far,k̂ ≥ 0.7,50–70%,0,
+ec_m,very far,k̂ ≥ 0.7,70–100%,0,

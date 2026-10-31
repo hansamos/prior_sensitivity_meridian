@@ -1,0 +1,43 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1793403817.703676 2166802 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+I0000 00:00:1793403817.706830 2166802 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1793403822.425689 2166802 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+I0000 00:00:1793403822.429911 2166802 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+<env>/lib/python3.11/site-packages/arviz/stats/stats.py:972: RuntimeWarning: invalid value encountered in subtract
+  x -= np.max(x)
+[PASS] roi_m: draw shape is (S, n_media) (600, 5)
+[PASS] roi_m: broadcast log_prob has shape (S, J), not reduced (600, 5)
+[PASS] roi_m: manual LogNormal == Meridian broadcast log_prob (ref) max|diff|=1.78e-15
+[PASS] roi_m: manual LogNormal == Meridian broadcast log_prob (target) max|diff|=6.22e-15
+[PASS] roi_m: scalar tfd.LogNormal == broadcast log_prob max|diff|=0.00e+00
+[PASS] roi_m: omitting -log(sigma) changes the log ratio (constant is needed) |diff|=0.405
+[PASS] roi_m: joint log ratio sums channel axis only -> shape (S,) (600,)
+[PASS] identity: raw log ratio == 0 
+[PASS] identity: weights uniform and ESS == S ESS=600.000000
+[PASS] normalize: weights sum to 1 
+[PASS] roi_m: TFP log_prob at x<=0 is non-finite (so it needs an explicit guard) x=-1 -> nan, x=0 -> -inf
+[PASS] roi_m: notebook helper rejects x<=0 
+[PASS] roi_m: TFP LogNormal(sigma=-1, validate_args=True) does not raise, returns NaN -> explicit sigma>0 and finite-ratio checks required
+[PASS] roi_m: notebook helper with sigma=-1 returns NaN (no guard) -> explicit sigma>0 and finite-ratio checks required
+[PASS] alpha_m: Meridian accepts Beta(2,2) as a prior (same [0,1] support) 
+[PASS] alpha_m: Uniform(0,1) log_prob == 0 on interior 
+[PASS] alpha_m: Beta(2,2) log_prob == scipy max|diff|=1.42e-14
+[PASS] alpha_m: edge draws 0 and 1 (boundary behaviour) Uniform: 0.0/0.0  Beta(2,2): -inf/-inf
+[PASS] ec_m: default TruncatedNormal log_prob == scipy truncnorm max|diff|=1.78e-15
+[PASS] ec_m: target TruncatedNormal log_prob == scipy truncnorm (normalizer included) max|diff|=2.22e-16
+[PASS] ec_m: log_prob below the truncation bound is -inf (support check) -inf
+[PASS] ec_m: Meridian accepts a wider truncation (lower bound 0.01 < 0.1) accepted: the ratio is finite on reference draws but target mass in [0.01,0.1) is unreachable
+[PASS] alpha_m+ec_m: total log ratio is the sum of the two factors, each once 
+[PASS] sigma: node value is scalar per draw (600,)
+[PASS] sigma: HalfNormal(2) log_prob == scipy max|diff|=3.55e-15
+[PASS] tau_g_excl_baseline: broadcast log_prob has shape (S, G-1) (600, 2)
+[PASS] tau_g_excl_baseline: Normal(0,5) log_prob == scipy max|diff|=1.78e-15
+[PASS] slope_m: default is Deterministic (point mass, not reweightable) Deterministic
+[PASS] psislw: output is normalized and shape (S,) k=0.128
+[PASS] psislw: identity input (all-zero log ratios) gives uniform weights but k=inf k=inf -> a status rule on k alone would call the identity case 'fail'; special-case constant log ratios
+[PASS] psislw: near-identity input (1e-8 noise) gives a finite, sensible k k=-0.060
+[PASS] psislw: +inf log weight is NOT rejected by ArviZ (needs explicit guard) k=inf
+[PASS] psislw: NaN log weight silently propagates (needs explicit guard) output contains non-finite values
+
+33/33 passed, 0 failed

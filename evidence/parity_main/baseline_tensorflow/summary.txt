@@ -1,0 +1,200 @@
+meridian/model/model_test.py::ModelEquationsDelegateTest::test_linear_predictor_counterfactual_difference_rf_delegates
+  <meridian clone>/meridian/model/model_test.py:1938: DeprecationWarning: Meridian.linear_predictor_counterfactual_difference_rf() is deprecated and will be removed in a future version. Use `ModelEquations.linear_predictor_counterfactual_difference_rf()` instead.
+    self.mmm.linear_predictor_counterfactual_difference_rf(
+
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_control_variables
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_geos
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_knots
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_media_channels
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_rf_channels
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_times
+  <meridian clone>/meridian/model/posterior_sampler_test.py:1910: DeprecationWarning: Meridian.create_inference_data_coords() is deprecated and will be removed in a future version. Use `ModelContext.create_inference_data_coords()` instead.
+    posterior_coords = meridian.create_inference_data_coords(
+
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_control_variables
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_geos
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_knots
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_media_channels
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_rf_channels
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_validate_injected_inference_data_posterior_incorrect_coordinates_times
+  <meridian clone>/meridian/model/posterior_sampler_test.py:1913: DeprecationWarning: Meridian.create_inference_data_dims() is deprecated and will be removed in a future version. Use `ModelContext.create_inference_data_dims()` instead.
+    posterior_dims = meridian.create_inference_data_dims()
+
+meridian/model/posterior_sampler_test.py: 5 warnings
+meridian/model/prior_sampler_test.py: 14 warnings
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: ch_1: 2021-06-14; rf_ch_0: 2021-04-05, 2021-08-23.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type0
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type1
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type0
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type1
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: ch_0: 2021-07-12.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type2
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type3
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type2
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type3
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: rf_ch_0: 2021-07-12.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only0
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only1
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only2
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only3
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only4
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerTest::test_get_joint_dist_with_log_prob_media_only5
+  <meridian clone>/meridian/model/posterior_sampler_test.py:568: DeprecationWarning: Meridian.adstock_hill_media() is deprecated and will be removed in a future version. Use `ModelEquations.adstock_hill_media()` instead.
+    transformed_media = meridian.adstock_hill_media(
+
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type4
+meridian/model/posterior_sampler_test.py::TimeVaryingPosteriorTest::test_joint_dist_for_each_channel_type5
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type4
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_samples_each_channel_type5
+  <meridian clone>/meridian/model/context.py:2351: UserWarning: There are overlapping changepoints from two (or more) media channels in a national model. The model is unidentifiable and hurts convergence. Consider dropping either one of the overlapping changepoints.
+  Changepoints on the same date: 2022-12-26: ch_0, rf_ch_0.
+  `sample_posterior` raises this as an error until no two channels have a changepoint on the same date.
+    warnings.warn(
+
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_prior_distribution_sampler_uses_seed
+  <meridian clone>/meridian/model/prior_sampler_test.py:89: DeprecationWarning: Initializing PriorDistributionSampler with a Meridian object is deprecated and will be removed in a future version. Please use `model_context` instead.
+    sampler = prior_sampler.PriorDistributionSampler(meridian)
+
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_control_variables
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_rf_channels
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_geos
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_times
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_knots
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_media_channels
+  <meridian clone>/meridian/model/prior_sampler_test.py:617: DeprecationWarning: Meridian.create_inference_data_coords() is deprecated and will be removed in a future version. Use `ModelContext.create_inference_data_coords()` instead.
+    prior_coords = meridian.create_inference_data_coords(1, self._N_DRAWS)
+
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_control_variables
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_rf_channels
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_geos
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_times
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_knots
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerTest::test_validate_injected_inference_data_prior_incorrect_coordinates_media_channels
+  <meridian clone>/meridian/model/prior_sampler_test.py:618: DeprecationWarning: Meridian.create_inference_data_dims() is deprecated and will be removed in a future version. Use `ModelContext.create_inference_data_dims()` instead.
+    prior_dims = meridian.create_inference_data_dims()
+
+meridian/model/context_test.py::ChangepointsTest::test_legacy_roi_calibration_period_of_channel_with_changepoints_raises
+  <meridian clone>/meridian/model/spec.py:1101: DeprecationWarning: `roi_calibration_period` is deprecated and will be removed in a future version of Meridian. Use `roi_calibration` instead.
+    super().__post_init__()
+
+meridian/model/posterior_sampler_test.py::PosteriorMCMCSamplerInitTest::test_init_with_meridian
+  <meridian clone>/meridian/model/posterior_sampler_test.py:2483: DeprecationWarning: Initializing PosteriorMCMCSampler with a Meridian object is deprecated and will be removed in a future version. Please use `model_context` instead.
+    sampler = posterior_sampler.PosteriorMCMCSampler(self.meridian)
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_custom_zeta_prior_per_channel
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: ch_0: 2021-06-14; ch_1: 2021-06-14.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_custom_zeta_prior_per_channel
+  <meridian clone>/meridian/model/context.py:2358: UserWarning: There are overlapping changepoints from two (or more) media channels in a geo model. If convergence is an issue, consider dropping either one of the overlapping changepoints.
+  Changepoints on the same date: 2021-06-14: ch_0, ch_1.
+    warnings.warn(
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_type_whose_channels_all_have_changepoints_uses_their_prior_type_rf
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: rf_ch_0: 2021-06-14; rf_ch_1: 2021-06-14.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_type_whose_channels_all_have_changepoints_uses_their_prior_type_rf
+  <meridian clone>/meridian/model/context.py:2358: UserWarning: There are overlapping changepoints from two (or more) media channels in a geo model. If convergence is an issue, consider dropping either one of the overlapping changepoints.
+  Changepoints on the same date: 2021-06-14: rf_ch_0, rf_ch_1.
+    warnings.warn(
+
+meridian/model/prior_sampler_test.py::PriorDistributionSamplerInitTest::test_init_with_meridian
+  <meridian clone>/meridian/model/prior_sampler_test.py:1538: DeprecationWarning: Initializing PriorDistributionSampler with a Meridian object is deprecated and will be removed in a future version. Please use `model_context` instead.
+    sampler = prior_sampler.PriorDistributionSampler(self.meridian)
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_type_whose_channels_all_have_changepoints_uses_their_prior_type_media
+  <meridian clone>/meridian/model/context.py:2302: UserWarning: There are overlapping knots (for mu_t) and changepoints (for beta) in a geo model. If convergence is an issue, consider dropping either one of the overlapping knots or changepoints, or replacing the knots with control variables.
+  Changepoints on a knot: ch_0: 2021-06-14; ch_1: 2021-06-14; ch_2: 2021-06-14.
+    warnings.warn(_knot_overlap_message(_GEO_KNOT_OVERLAP_WARNING, overlaps))
+
+meridian/model/prior_sampler_test.py::TimeVaryingPriorSamplingTest::test_type_whose_channels_all_have_changepoints_uses_their_prior_type_media
+  <meridian clone>/meridian/model/context.py:2358: UserWarning: There are overlapping changepoints from two (or more) media channels in a geo model. If convergence is an issue, consider dropping either one of the overlapping changepoints.
+  Changepoints on the same date: 2021-06-14: ch_0, ch_1, ch_2.
+    warnings.warn(
+
+meridian/backend/backend_test.py::BackendInitializationTest::test_env_var_invalid
+  <meridian clone>/meridian/backend/config.py:98: RuntimeWarning: Invalid MERIDIAN_BACKEND environment variable: 'pytorch'. Supported values are 'tensorflow' and 'jax'. Defaulting to jax.
+    warnings.warn(
+
+meridian/model/knots_test.py::AKSTest::test_aks_200_times
+  <meridian clone>/meridian/model/knots.py:696: RuntimeWarning: overflow encountered in cast
+    backend.np_float_dtype(math.comb(ncol, design_mat.shape[1]))
+
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_optimized_data_with_target_mroi
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_spend_ratio_handles_zero_hist_spend
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_spend_ratio_handles_zero_hist_spend
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_spend_ratio_handles_zero_hist_spend
+  <env>/lib/python3.11/site-packages/numpy/lib/_function_base_impl.py:4671: RuntimeWarning: invalid value encountered in subtract
+    diff_b_a = subtract(b, a)
+
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_optimize_grid_exceeds_spend_constraint_fixed_budget_scenario_budget_too_large
+  <meridian clone>/meridian/analysis/optimizer.py:255: UserWarning: Optimization accuracy may suffer owing to budget level differences. Consider creating a new grid with smaller `gtol` if you intend to shrink total budget significantly across optimization runs. It is only a problem when you use a much smaller budget,  for which the intended step size is smaller. 
+    warnings.warn(
+
+meridian/analysis/optimizer_test.py::OptimizerAlgorithmTest::test_optimize_grid_matches_optimize_flexible_budget_target_mroi_scenario
+  <meridian clone>/meridian/analysis/optimizer.py:3453: UserWarning: Target marginal ROI constraint was not met. The target marginal ROI is 1.0, but the actual channel marginal ROIs are <xarray.DataArray 'mroi' (channel: 5)> Size: 40B
+  array([0.99887961, 1.04096794, 0.38008931, 4.57381439, 6.66575527])
+  Coordinates:
+    * channel  (channel) <U7 140B 'ch_0' 'ch_1' 'ch_2' 'rf_ch_0' 'rf_ch_1'
+      metric   <U6 24B 'mean'.
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_invalid_geox_result_raises_invalid_geox_result_error_missing_descriptive_metrics
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_invalid_geox_result_raises_invalid_geox_result_error_missing_estimated_bau_spend
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_invalid_geox_result_raises_invalid_geox_result_error_multiple_results
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_invalid_geox_result_raises_invalid_geox_result_error_no_icpd
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_invalid_geox_result_raises_invalid_geox_result_error_no_results
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_non_revenue_kpi_success
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_non_revenue_no_revenue_per_kpi_raises_value_error
+FAILED meridian/model/calibration/adapters/meridian_geox_test.py::MeridianGeoXAdapterTest::test_resolve_revenue_kpi_success
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_adds_source
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_adjustments_are_preserved
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_empty_results_raises_error
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_integration_resolves_configs
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_invalid_type_raises_error
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_mixed_kpi_types_add_sources
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_multiple_calls_append_sources
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_multiple_calls_preserve_attributes
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_with_meridian_geox_experiment_result_sequence_adds_source
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_geox_channel_name_validation_invalid_raises_error
+FAILED meridian/model/calibration/prior_builder_test.py::CalibrationBuilderTest::test_geox_raises_error_for_length_mismatch
+ERROR meridian/mlflow/autolog_test.py - ImportError while importing test modu...
+ERROR meridian/schema/mmm_proto_generator_test.py - ImportError while importi...
+ERROR meridian/schema/model_consumer_test.py - ImportError while importing te...
+ERROR meridian/schema/processors/common_test.py - ImportError while importing...
+ERROR meridian/schema/processors/model_fit_processor_test.py - ImportError wh...
+ERROR meridian/schema/processors/model_kernel_processor_test.py - ImportError...
+ERROR meridian/schema/serde/eda_spec_test.py - ImportError while importing te...
+ERROR meridian/schema/serde/function_registry_test.py - ImportError while imp...
+ERROR meridian/schema/serde/inference_data_test.py - ImportError while import...
+ERROR meridian/schema/serde/marketing_data_test.py - ImportError while import...
+ERROR meridian/schema/serde/meridian_serde_test.py - ImportError while import...
+ERROR meridian/schema/serde/test_data.py - ImportError while importing test m...
+ERROR meridian/schema/test_data.py - ImportError while importing test module ...
+ERROR meridian/schema/utils/date_range_bucketing_test.py - ImportError while ...
+ERROR meridian/schema/utils/proto_enum_converter_test.py - ImportError while ...
+ERROR meridian/schema/utils/time_record_test.py - ImportError while importing...
+ERROR scenarioplanner/converters/dataframe/budget_opt_converters_test.py - Im...
+ERROR scenarioplanner/converters/dataframe/common_test.py - ImportError while...
+ERROR scenarioplanner/converters/dataframe/dataframe_model_converter_test.py
+ERROR scenarioplanner/converters/dataframe/marketing_analyses_converters_test.py
+ERROR scenarioplanner/converters/dataframe/rf_opt_converters_test.py - Import...
+ERROR scenarioplanner/converters/mmm_test.py - ImportError while importing te...
+ERROR scenarioplanner/converters/sheets_test.py - ImportError while importing...
+ERROR scenarioplanner/converters/test_data.py - ImportError while importing t...
+ERROR scenarioplanner/linkingapi/url_generator_test.py - ImportError while im...
+19 failed, 5842 passed, 48 skipped, 10047 warnings, 25 errors, 564 subtests passed in 2029.87s (0:33:49)
